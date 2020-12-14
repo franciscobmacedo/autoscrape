@@ -1,0 +1,582 @@
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.idnow.io/glossary/
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+IDnow | The identity verification platform. Built for security. Loved by people.
+
+Deutsch
+English
+Français
+
+
+Products
+
+IDnow AutoIdent
+IDnow VideoIdent
+IDnow BankIdent
+IDnow eID
+IDnow eSign
+IDnow Platform
+Use Cases
+Identity solutions, powering industries
+Explore the IDnow Platform
+Industries
+Finance
+Insurance
+Automotive
+Mobility
+Crypto
+Telecommunications
+eCommerce
+Gaming
+eSports
+Digital Contract Management
+Case Studies
+Commerzbank
+Solarisbank
+Selma Finance
+Holvi
+TeleDoctor24
+Syncier
+Downloads
+eIDAS Whitepaper
+solarisBank BKYC
+Guide: Gaming KYC
+FinTech Handbook
+Mobility Report
+Electronic Signatures
+AutoIdent Quick Guide
+IDnow Security Report 2020
+Developers
+Company
+
+About us
+Management
+Partners
+References
+Resource Hub
+Press
+Careers
+Regulation
+
+Regulation & Compliance
+Identification & KYC
+eSigning
+Data Security
+Certification Policies
+Try AutoIdent
+Contact
+
+Glossary
+A
+
+Advanced Electronic Signature (AES)
+Age Verification
+Anti-Money Laundering (AML)
+Anti-Money Laundering Directive (AMLD)
+API
+ARJEL
+Artificial intelligence (AI)
+AutoIdent
+B
+
+BaFin
+Bank regulation
+Biometric check
+Biometrics
+BKYC
+C
+
+Compliance
+Crypto Currency
+D
+
+Data privacy
+Digital Onboarding
+DocuSign
+Due Dilligence
+E
+
+eID
+eIDAS
+Electronic Signature
+eSign
+F
+
+False Acceptance Rate (FAR)
+FinTech
+Fraud
+G
+
+Glücksspielstaatsvertrag (GlüStV)
+I
+
+ID documents
+Identity Fraud
+Identity Verification
+K
+
+KYC Check
+KYC Requirements
+L
+
+Liveness detection
+M
+
+Machine Learning
+Money Laundering
+P
+
+Politically exposed person (PEP)
+Q
+
+Qualified Electronic Signature (QES)
+R
+
+RegTech
+S
+
+Security
+Similarity fraud
+Social Engineering
+V
+
+VideoIdent
+Questions?
+Let’s talk!
+Contact us
+Contact us
+
+Issues with your identification or our app?
+Contact our support
+.
+Auenstraße 100
+80469 Munich, Germany
+37th Floor, 1 Canada Square, Canary Wharf
+London E14 5AA, United Kingdom
+40 rue du Louvre
+75001 Paris, France
+Business hours
+
+Ident-Center:
+Monday – Sunday:
+8.00 am – 00.00 am CEST
+Sales:
+Monday – Friday:
+9.00 am – 6.30 pm CEST
+IT:
+24/7
+Quicklinks
+About IDnow
+Developer Hub
+Team
+Partner
+Reviews
+Glossary
+KYC
+Identity Verification
+Press
+Pricing
+Resource Hub
+Career Opportunities
+Certification Policies
+Revocation
+Help Desk
+
+IDnow | The identity verification platform. Built for security. Loved by people. ·
+Privacy Policy
+·
+Imprint/Legal Notice
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.idnow.io/use-cases/commerzbank/
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+IDnow | The identity verification platform. Built for security. Loved by people.
+
+Deutsch
+English
+Français
+
+
+Products
+
+IDnow AutoIdent
+IDnow VideoIdent
+IDnow BankIdent
+IDnow eID
+IDnow eSign
+IDnow Platform
+Use Cases
+Identity solutions, powering industries
+Explore the IDnow Platform
+Industries
+Finance
+Insurance
+Automotive
+Mobility
+Crypto
+Telecommunications
+eCommerce
+Gaming
+eSports
+Digital Contract Management
+Case Studies
+Commerzbank
+Solarisbank
+Selma Finance
+Holvi
+TeleDoctor24
+Syncier
+Downloads
+eIDAS Whitepaper
+solarisBank BKYC
+Guide: Gaming KYC
+FinTech Handbook
+Mobility Report
+Electronic Signatures
+AutoIdent Quick Guide
+IDnow Security Report 2020
+Developers
+Company
+
+About us
+Management
+Partners
+References
+Resource Hub
+Press
+Careers
+Regulation
+
+Regulation & Compliance
+Identification & KYC
+eSigning
+Data Security
+Certification Policies
+Try AutoIdent
+Contact
+
+IDnow as part of the Digital Strategy.
+IDnow has been part of Commerzbank’s digital transformation from a branch model to a multi-channel bank. Their goal was to allow those, interested in becoming Commerzbank customers, the opportunity to do so at any time and from any location. ´
+Commerzbank’s previous experience showed that alternative methods known as “Bank Branch Legitimation” and “PostIdent” did not meet their requirements in three major metrics: user experience, conversion rate, and data quality. In addition, the process was further complicated by regulation, which requires opening an account online meet the same legal criteria as traditional analog procedures. Additionally, Commerzbank needed a way to address and exceed customers’ expectations in usability and mobility.
+Commerzbank was one of the first banks to implement video identification.
+A step that has paid off – with significant user acceptance and conversion rates. The impact on their digital business success speaks for itself!
+Insights.
+Why IDnow has become an important component of Commerzbank’s digital strategy.
+How Commerzbank succeeded in transforming itself from a branch bank to a multi-channel bank.
+The decisive impact IDnow’s video validation process has had on Commerzbank’s digital business success.
+Download now.
+
+
+Questions?
+Let’s talk!
+Contact us
+Contact us
+
+Issues with your identification or our app?
+Contact our support
+.
+Auenstraße 100
+80469 Munich, Germany
+37th Floor, 1 Canada Square, Canary Wharf
+London E14 5AA, United Kingdom
+40 rue du Louvre
+75001 Paris, France
+Business hours
+
+Ident-Center:
+Monday – Sunday:
+8.00 am – 00.00 am CEST
+Sales:
+Monday – Friday:
+9.00 am – 6.30 pm CEST
+IT:
+24/7
+Quicklinks
+About IDnow
+Developer Hub
+Team
+Partner
+Reviews
+Glossary
+KYC
+Identity Verification
+Press
+Pricing
+Resource Hub
+Career Opportunities
+Certification Policies
+Revocation
+Help Desk
+
+IDnow | The identity verification platform. Built for security. Loved by people. ·
+Privacy Policy
+·
+Imprint/Legal Notice
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.idnow.io/use-cases/syncier/
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+IDnow | The identity verification platform. Built for security. Loved by people.
+
+Deutsch
+English
+Français
+
+
+Products
+
+IDnow AutoIdent
+IDnow VideoIdent
+IDnow BankIdent
+IDnow eID
+IDnow eSign
+IDnow Platform
+Use Cases
+Identity solutions, powering industries
+Explore the IDnow Platform
+Industries
+Finance
+Insurance
+Automotive
+Mobility
+Crypto
+Telecommunications
+eCommerce
+Gaming
+eSports
+Digital Contract Management
+Case Studies
+Commerzbank
+Solarisbank
+Selma Finance
+Holvi
+TeleDoctor24
+Syncier
+Downloads
+eIDAS Whitepaper
+solarisBank BKYC
+Guide: Gaming KYC
+FinTech Handbook
+Mobility Report
+Electronic Signatures
+AutoIdent Quick Guide
+IDnow Security Report 2020
+Developers
+Company
+
+About us
+Management
+Partners
+References
+Resource Hub
+Press
+Careers
+Regulation
+
+Regulation & Compliance
+Identification & KYC
+eSigning
+Data Security
+Certification Policies
+Try AutoIdent
+Contact
+
+Syncier – making insurers fit for the future.
+The Syncier marketplace provides a broad range of digital services specifically relevant to the insurance industry.
+The pressure for change brought about by digitization is also growing increasingly in the insurance industry. New, digital business models, changing user requirements, and the general shift towards fast and simple solutions are forcing new and established insurers alike to act.
+Syncier, a spin-off of the alliance in partnership with Microsoft, has recognized and solved this problem. The Syncier marketplace provides digital services specifically relevant to the insurance industry. These services can then be integrated directly via API into the existing IT systems of insurance companies.
+Insights.
+What the Syncier marketplace offers.
+How IDnow and Syncier provide efficient identity verification for the insurance industry.
+Why API management as a key factor in digitization.
+Download now.
+
+
+Questions?
+Let’s talk!
+Contact us
+Contact us
+
+Issues with your identification or our app?
+Contact our support
+.
+Auenstraße 100
+80469 Munich, Germany
+37th Floor, 1 Canada Square, Canary Wharf
+London E14 5AA, United Kingdom
+40 rue du Louvre
+75001 Paris, France
+Business hours
+
+Ident-Center:
+Monday – Sunday:
+8.00 am – 00.00 am CEST
+Sales:
+Monday – Friday:
+9.00 am – 6.30 pm CEST
+IT:
+24/7
+Quicklinks
+About IDnow
+Developer Hub
+Team
+Partner
+Reviews
+Glossary
+KYC
+Identity Verification
+Press
+Pricing
+Resource Hub
+Career Opportunities
+Certification Policies
+Revocation
+Help Desk
+
+IDnow | The identity verification platform. Built for security. Loved by people. ·
+Privacy Policy
+·
+Imprint/Legal Notice
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.idnow.io/use-cases/idnow-security-report/
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+IDnow | The identity verification platform. Built for security. Loved by people.
+
+Deutsch
+English
+Français
+
+
+Products
+
+IDnow AutoIdent
+IDnow VideoIdent
+IDnow BankIdent
+IDnow eID
+IDnow eSign
+IDnow Platform
+Use Cases
+Identity solutions, powering industries
+Explore the IDnow Platform
+Industries
+Finance
+Insurance
+Automotive
+Mobility
+Crypto
+Telecommunications
+eCommerce
+Gaming
+eSports
+Digital Contract Management
+Case Studies
+Commerzbank
+Solarisbank
+Selma Finance
+Holvi
+TeleDoctor24
+Syncier
+Downloads
+eIDAS Whitepaper
+solarisBank BKYC
+Guide: Gaming KYC
+FinTech Handbook
+Mobility Report
+Electronic Signatures
+AutoIdent Quick Guide
+IDnow Security Report 2020
+Developers
+Company
+
+About us
+Management
+Partners
+References
+Resource Hub
+Press
+Careers
+Regulation
+
+Regulation & Compliance
+Identification & KYC
+eSigning
+Data Security
+Certification Policies
+Try AutoIdent
+Contact
+
+How to win the cyber fraud arms race.
+Cybercrime is undergoing an industrialisation wave and booming like never before, it is a massive business in
+its own right. IDnow has noticed a significant increase in fraud attempts since the first lockdown. In this Security Report, we want to give you an overview of the cyber fraud landscape – find out how we are working hard to remain one step ahead of criminal minds all over the world.
+The need for user-friendly and fast digital processes is greater than ever. Not only have customer expectations changed over the last few years – users expect services to be available within minutes, not days – but the current situation has also forced many companies to act and adapt quickly.
+Fraud on the rise.
+COVID-19 is a significant distraction for management and employees, and large numbers of employees are now working remotely. Criminals use sophisticated analysis to seek out weak spots and to take advantage of flimsy controls and poor IT security. Based on a report by consulting firm PricewaterhouseCoopers (PwC), individual organisations recorded a 40 percent increase in attempted cyberattacks within a week of the lockdown.
+IDnow’s Security Report 2020 outlines different fraud methods used by fraudsters and explains how IDnow is able to identify and prevent utilising the best of both worlds: Highly developed technology and human instinct.
+Insights.
+Why Cyber fraud is already is one of the biggest threats to our economy.
+How criminals are trying to exploit the current situation.
+How IDnow utilizes state-of-the-art technology and highly trained human experts.
+Download Now
+IDnow Security Report 2020
+.
+
+
+Questions?
+Let’s talk!
+Contact us
+Contact us
+
+Issues with your identification or our app?
+Contact our support
+.
+Auenstraße 100
+80469 Munich, Germany
+37th Floor, 1 Canada Square, Canary Wharf
+London E14 5AA, United Kingdom
+40 rue du Louvre
+75001 Paris, France
+Business hours
+
+Ident-Center:
+Monday – Sunday:
+8.00 am – 00.00 am CEST
+Sales:
+Monday – Friday:
+9.00 am – 6.30 pm CEST
+IT:
+24/7
+Quicklinks
+About IDnow
+Developer Hub
+Team
+Partner
+Reviews
+Glossary
+KYC
+Identity Verification
+Press
+Pricing
+Resource Hub
+Career Opportunities
+Certification Policies
+Revocation
+Help Desk
+
+IDnow | The identity verification platform. Built for security. Loved by people. ·
+Privacy Policy
+·
+Imprint/Legal Notice
+
