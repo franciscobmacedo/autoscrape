@@ -9,16 +9,10 @@ class Scrape():
     def __init__(self, main_url):
         self.visited_urls = []
         self.main_url = main_url
-        if 'https' in self.main_url:
-            self.main_url_https = self.main_url
-        else:
-            self.main_url_https = 'https://' + self.main_url
-
         if 'http' in self.main_url:
-            self.main_url_http = self.main_url
+            self.main_url_clean = self.main_url
         else:
-            self.main_url_http = 'http://' + self.main_url
-            
+            self.main_url_clean = 'https://' + self.main_url
 
     def tag_visible(self, element):
         if element.parent.name in ['style', 'script', 'head', 'title', 'meta', '[document]']:
@@ -34,26 +28,39 @@ class Scrape():
         visible_texts = filter(self.tag_visible, texts)  
         return u"\n".join(t.strip() for t in visible_texts if t != '\n')
 
+    def check_useful_url(self, url):
+        if self.main_url in url or self.main_url_clean in url:
+            return url, True
+        elif not 'http' in url:
+            return self.main_url_clean + url, True 
+        else:
+            return '', False
 
     def get_urls(self, url):
         page = requests.get(url)
         # print(page.status_code)
         soup = BeautifulSoup(page.text, 'html.parser')
         all_anchors = soup.find_all('a',  href=True)
-        usefull_ulrs = [a['href'] for a in all_anchors if a['href'].startswith(self.main_url) or a['href'].startswith(self.main_url_http) or a['href'].startswith(self.main_url_https)]
-        return usefull_ulrs
+        useful_ulrs = []
+        for a in all_anchors:
+            url, result = self.check_useful_url(a['href'])
+            if result:
+                useful_ulrs.append(url)
+        
+        # useful_ulrs = [a['href'] for a in all_anchors if check_useful_url(url)]
+        return useful_ulrs
 
     def get_contents(self, parent_url):
         f = self.f
-        usefull_ulrs = self.get_urls(parent_url)
+        useful_ulrs = self.get_urls(parent_url)
         if parent_url not in self.visited_urls:
-            usefull_ulrs.append(parent_url) 
+            useful_ulrs.append(parent_url) 
 
-        usefull_ulrs = list(set(usefull_ulrs))
-        if usefull_ulrs:
+        useful_ulrs = list(set(useful_ulrs))
+        if useful_ulrs:
             print(f'\ntrying url {parent_url} ...')
 
-        for url in usefull_ulrs:
+        for url in useful_ulrs:
             if url in self.visited_urls:
                 continue
             page = requests.get(url)
@@ -90,13 +97,15 @@ class Scrape():
         self.f = open(f_name, mode='w+', encoding='utf-8')
         try:
             print(f'Trying with https')
-            self.get_contents(self.main_url_https)
+            
+            self.get_contents(self.main_url_clean)
         except Exception as e:
             print(f'cant do it with https: {e}')
 
             try:
                 print(f' Trying with http')
-                self.get_contents(self.main_url_http)
+                self.main_url_clean = 'http://' + self.main_url
+                self.get_contents(self.main_url_clean)
             except Exception as e:
                 print(f' cant do it with http: {e}')
 

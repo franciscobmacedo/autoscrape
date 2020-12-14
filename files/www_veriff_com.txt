@@ -1,0 +1,2649 @@
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/privacy-policy
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Product
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Resources and Blog
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Privacy policy
+1. Our Privacy Policy in a nutshell
+2. Definitions
+3. Our main privacy principles
+4. The content of Personal Data we process
+5. Purpose of processing and legal ground for provision of Services
+6. Service Process (Automated processing)
+7. Data Subject’s rights in relation to Personal Data
+8. Disclosure and transfer of Personal Data
+9. Security of Personal Data
+10. Retention of Personal Data
+11. Children's Personal Data
+12. Jurisdiction specific notices
+13. Important documents, guidelines and procedures
+14. Contact details and information
+15. Availability of, and changes to, the Privacy Policy
+Privacy policy
+Valid from:
+Thank you for taking the time to familiarize yourself with our policy for privacy (the Privacy Policy). Veriff is specialized in providing online identification services. We consider ourselves the new standard in identity verification, and we allow our contractual parties to verify your driver’s license, passport or ID card if you have agreed to such Processing.
+1. Our Privacy Policy in a nutshell
+Here is information on this policy in a nutshell.
+1.1 In this Privacy Policy we explain how and on what basis we collect, store and Process Personal Data of Data Subjects i.e. our client’s representatives, Users, Visitors (see definitions below). We also explain what Data Subjects’ rights are and our obligations and liability.
+1.2 Veriff mainly Processes Users’ information as directed by our clients for the provision of our Services. Our Clients are the data controllers who determine the purpose of Processing Personal Data and, accordingly, Veriff is a Data Processor of User information with respect to those services. In other cases, Veriff is a Data Controller of User information (e.g. regards to visitors of Veriff’s web page). We may also Process certain Data Subjects’ information in anonymized form for the development and improvement of our Services and in other forms and purposes set forth in this Privacy Policy.
+1.3 In order to fully understand how Personal Data is Processed, Data Subjects should review privacy notices shared with the Users by Veriff and privacy policies of those Clients’, for whose services they are getting verified for.
+1.4 Please review this Privacy Policy carefully and contact our data protection officer at
+legal@veriff.com
+if you have any comments, questions or concerns.
+1.5 Content of Privacy Policy:
+1.5.1 Our Privacy Policy in a nutshell
+1.5.2 Definitions
+1.5.3 Our main privacy principles
+1.5.4 The content of Personal Data we Process
+1.5.5 Purpose of processing and legal ground of processing for provision of our services
+1.5.6 Service process (automated processing)
+1.5.7 Data Subject’s rights in relation to Personal Data
+1.5.8 Disclosure and transfer of Personal Data
+1.5.9 Security of Personal Data
+1.5.10 Retention of Personal Data
+1.5.11 Children's Personal Data
+1.5.12 Jurisdiction specific notices
+1.5.13 Important documents, guidelines and procedures
+1.5.14 Contact details and information
+1.5.15 Availability of, and changes to, the Privacy Policy
+---------------------------------------------------
+2. Definitions
+Here you can find the meanings of the most important terms in this Privacy Policy to help you understand how and for what we are Processing your Personal Data.
+Agreement
+- service agreement concluded with the Client.
+Data Providers
+– these are third-party service providers or public authorities who we use to collect additional information for verification. For example, we may check the User-provided info against official public registry.
+Data Controller
+- a legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the Processing of Personal Data and gives instructions regarding processing activities to Veriff.
+Data Processor
+– Veriff Processes Personal Data on behalf of the Data Controller.
+Data Subject / you
+– a natural person about whom we have information or data enabling the identification of the natural person. Data Subjects are our Client’s representatives, Users, our (potential) employees and Visitors.
+EEA
+- European Economic Area (the European Union Member States, Norway, Iceland and Liechtenstein).
+GDPR
+- EU General Data Protection Regulation no 2016/679.
+Client
+- the legal entity to whom we provide our Services under the Agreement.
+Personal Data
+- any information relating to an identified or identifiable natural person (the Data Subject); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+Privacy Policy
+- this privacy policy.
+
+Processing
+- any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. Processing may be done manually or using automated systems.
+Processor / our / us / we
+- Veriff OÜ, registry code 12932944, Niine 11, Tallinn, 10414, e-mail:
+info@veriff.com
+and our data protection officer
+legal@veriff.com
+.
+Service(s)
+- personal identity verification service and connected services provided by us.
+User
+- the natural person regarding whom we provide the Service at the request of the Client and natural person who contacts us as the representative of Client prior to conclusion of the Agreement.
+Visitor
+- is any person using the Veriff Website.
+Politically exposed person (PEP)
+– politically exposed person including their family members and close associates in accordance with the applicable legal acts regards to prevention of money laundering or terrorist financing (such as a natural person who is or who has been entrusted with prominent public functions, e.g member of parliament or of a similar legislative body, a member of a governing body of a political party, a member of a supreme court).
+Website
+-
+https://www.veriff.com/
+.
+3. Our main privacy principles
+Here you can find the privacy principles we follow when Processing Personal Data.
+We follow what we call the “Fundamental Six”, that is, six principles regarding Veriff’s data Processing activities:
+(1) First, we Process Personal Data in a
+reliable and confidential way
+. We respect each person's right to the protection of their Personal Data and we shall do our best to ensure that Personal Data collected by us is well protected. We regularly evaluate the risks associated with the Processing of Personal Data and shall apply appropriate mitigation strategies to hedge risks.
+(2) Second,
+data protection is an
+
+integral part of our Service
+. All our services are developed and deployed by enshrining the principles of privacy by design and privacy by default that is overseen by our data protection officer. Compliance with Privacy Policy is integrated into our day-to-day activities, services and processes, and our development efforts. We understand that compliance with data protection rules takes place through our employees. Therefore, we consider it important and we must ensure that our employees know and comply with the requirements thereof. We expect, instruct and train our employees to respect our privacy requirements.
+(3) Third,
+we Process Personal Data
+
+lawfully and purposefully
+. We set clear goals for the Processing of Personal Data and Process Personal Data for these purposes only. We do not collect or Process the data that we do not need. Veriff has the right to delete/blur or make other ways unreadable data/documents presented in the session that are not necessary for Veriff’s service provision. This also means we never sell Personal Data – all transfers of Personal Data must have a valid legal basis.
+(4) Fourth,
+we Process Personal Data in a transparent and fair way
+. We ensure an appropriate secure, honest and lawful manner of processing the Personal Data to prevent the unauthorized disclosure or inappropriate use of Personal Data. We also work to eliminate the possibility of discrimination or bias in our Service.
+(5) Fifth,
+we shall store Personal Data
+
+only for as long as the retention of data is required
+by law or a contract or is necessary for the provision of our Services. At the end of the retention period, we shall permanently erase the Personal Data or anonymize it.
+(6) Sixth,
+we do our best to make sure that the Personal Data we Process is accurate
+and limited to what is necessary.
+4. The content of Personal Data we process
+Here you can find what Personal Data we Process about Users, Client's representatives and Visitors.
+4.1 Personal Data we Process about Users.
+We provide personal identity verification services to Clients. This means we verify Users and for that you (i.e. the User), have consented to data Processing according to the Client’s privacy policy and to data Processing by us in accordance with this Privacy Policy. We may collect and Process, among other, the following Personal Data:
+(1) personal information of User, such as name, sex, personal identification code, BSN number, date of birth, legal capacity, nationality and citizenship, as well as the historic data of that User that may have been stored with us during previous interactions within the retention periods;
+(2) document details, such as the name of the document, issuing country, number, expiry date, information embedded to document barcodes (may vary depending on the document) and security features;
+(3) facial recognition data, such as photos
+,
+videos and sound recording, photographs taken from you and your document and video and sound recording of the verification process;
+(4) contact details, such as address, e-mail address, telephone numbers, IP address;
+(5) technical data
+
+(
+Device Signature
+)
+,
+including but not limited to information about the date, time and your activity in the Services, your IP address and domain name, your software and hardware attributes as well as your general geographic location (
+e.g.
+city, country);
+(6) biometrical data, such as facial identifiers;
+(7) publicly available relevant data, e.g. information about being politically exposed person (PEP) and checks in public sanction lists.
+4.2 How we obtain User’s Personal Data. We may obtain Personal Data directly from you as well as from the Client. We also collect your Personal Data independently from Data Providers, e.g. to offer our Services within a trust-based relationship and to prevent fraud. For example, if we need to verify the validity of your identification document, we may inquire for additional information from the appropriate registrar.
+4.3 Client may have access to your Personal Data. We may share your Personal Data, foremost the biometric data and facial recognition data with the Client through which you used our identity verification service.
+4.4 Please note that providing your Personal Data is voluntary. However, the decision not to do so may mean that we are not able to verify your identity.
+4.5 Personal Data we Process about the representative of the Client.
+To enter into the Agreement, to provide our Service, to communicate with the representative of our client and for other lawful reasons we need to Process the data of Client’s representative. This means we may Process, among other information, the following Personal Data of the representative of the Client:
+(1) personal information of the representative of the Client, such as name, job title, position, and contact information;
+(2) personal information in connection of provision of the Service, such as data from communication with us;
+(3) technical data
+
+(
+Device Signature
+)
+,
+including but not limited to information about, the date, time and your activity in the Services, your IP address and domain name, and your software and hardware attributes as well as your general geographic location (
+e.g.
+city, country);
+(4) publicly available relevant data.
+4.6 How we obtain Client’s representative’s Personal Data. We collect this data either from you directly when you communicate with us directly, e.g. by sending us an email, providing us with your Personal Data on the phone or through our customer support tools. We may also collect some of your Personal Data in the course of provision of Service to your employer. We also check information about the Client (incl. about relevant representatives of the Client) from publicly available sources. We only gather relevant and necessary data in order to validate the right of representation e.g. this may include verification of your identity, Processing of your Personal Data for introducing the Service (demo) etc.
+4.7 Please note, the provision of Personal Data is voluntary. However, if you do not provide your Personal Data, the Client may not be able to make use of the full range of our Services.
+4.8 Personal Data we Process about Visitors to our Website and/ or Users of our Service.
+We may collect data when you visit our Websites and/ or Service by using Cookies (see
+Cookie Policy
+) or other similar technologies (e.g. IP address, equipment information, location information, beacons) and Process the data gathered by them. This data, among other information, may be as follows:
+(1) personal information, such as IP address, time, and location;
+(2) information on usage of the Website and/or Service and other web log data, such as the pages you visit on the Website, the date and time of your visit, the files that you download and the URLs from the websites you visit before and after navigating to the Website;
+(3) technical data
+
+(
+Device Signature
+)
+,
+including but not limited to information about your IP address and domain name, your software and hardware attributes (including device IDs) and your general geographic location (e.g. city, country).
+4.9
+Personal Data we Process related to responsible disclosure
+. If You decide to contact Veriff related to reporting an issue mentioned in our
+responsible disclosure
+policy, we only process the the following personal data about You:
+(1) name;
+(2) e-mail address;
+(3) picture, if You consent to disclosing it on our
+Hall of Fame
+.
+4.10
+Purpose of Processing with the help of Cookies and similar technologies.
+We use the collected data to enable the provision of the Service in accordance with the habits of a Visitor/ User, to ensure the best Service quality, to inform the Visitor about the contents and give recommendations, and to update advertisements and make marketing efforts more efficient. The collected data shall also be used for counting the Visitors/ Users and recording their habits. Read more from the
+Cookie Policy
+.
+5. Purpose of processing and legal ground for provision of Services
+Here you may read why and on what grounds we Process your Personal Data.
+5.1 Regarding the User information we only have one aim for processing – to verify your identity, and for this purpose we capture photos and video (if applicable) of the verification session as well as the document provided for verification. In addition, for verification, we conduct fraud prevention checks that are integral part of our Service. Identification process results are categorized as “Approved”, “Resubmission needed” or “Declined”.
+5.2 We or our Client may ask you to grant us
+consent for Processing
+. Please note that we cannot provide the Service in respect of an anonymous User, and therefore the use of our Service is subject to the disclosure of Personal Data to us and consenting to the Processing of Personal Data by the Client and us. However, giving consent is voluntary, but failure to do so may mean that we may not be able to provide you with the Service. For example, we will not be able to verify your identity. In some circumstances, e.g. for purpose of automated decision-making, you may be asked to provide us with explicit consent. If you have granted the Client and/or us a consent to Process Personal Data, the details of such processes and purposes thereof will be outlined in the consent itself.
+5.3 Your consent is the legal basis for processing Personal Data when You share Your findings related to responsible disclosure. Please note that giving consent is voluntary and you have the opportunity to withdraw your consent at any time. Publishing your name and/or picture on our website is done only with your express permission. More about responsible disclosure can be read
+here
+.
+5.4 Veriff asks Client representative's consent before recording audio and video of the Client representative call. The recording is used solely for Veriff's analytical purposes and improvement of Veriff's services and processes. Please note that giving consent is voluntary and you have the opportunity to withdraw your consent at any time.
+5.5 We mainly Process your Personal Data as a Processor for the benefit of the Client in order to fulfil the
+Agreement concluded with the Client
+for:
+(1) performance of the Agreement (including for the provision of the Service);
+(2) for performance of the obligations arising from the Agreement (including the realization of rights arising from the provision of the Service).
+(3) we also Process your Personal Data if Processing is necessary for compliance with our legal obligation and provision of our Service for realization of rights arising from the Agreement;
+(4) for the purpose of realization of rights and fulfilment of obligations deriving from legal acts;
+(5) for processing your inquiries and requests.
+5.6 We also Process your Personal Data if Processing is necessary in
+our legitimate interests
+, meaning our interest in the management and direction of our business in order to be able to offer the best possible services on the market. For our legitimate interest, we may Process data for the following purposes:
+(1) for analysing the use of our Service, and using research and analysis results, among other methods, for carrying out satisfaction surveys, feedback questionnaires and developing our products and services, including development of autonomous and automated decision-making processes;
+(2) for the transmission of information about our Service;
+(3) for sending out newsletters, for marketing and developing and promoting our Services, for organisation of campaigns, including personalised and targeted campaigns, and measuring the effectiveness of the performed marketing activities. Please note that for sending out newsletters, we only Process your contact details;
+(4) for ensuring a trust-based relationship with Clients and Users, for example, Personal Data Processing that is strictly necessary to determine the ultimate beneficiaries, being PEP and/or to prevent fraud, e.g. and checks in public sanction lists or our own Service history;
+(5) for administration and analysing of the client base to improve the availability, selection and quality of Services and products, and to make more personalised and the best Services;
+(6) for the analysis of identifiers and Personal Data collected upon the use of websites, mobile applications and other Services. We shall use the collected data for web analysis or for the analysis of mobile and information society services, for ensuring and improving functioning, for statistical purposes and for analysing the behaviour and using the experience of Visitors and Client representative’s and for providing better and more personalised Services;
+(7) for monitoring the Services. We may record the messages and instructions given in our premises or by means of communication (e-mail, telephone, etc.), as well as information and other operations carried out by us, and shall use those recordings as needed to evidence instructions or other operations;
+(8) for network, information and cyber security considerations, for example, for fighting against piracy and for ensuring the security of the Websites and Service, as well as for the measures taken for making and storing backup copies;
+(9) for the establishment, exercise or defence of legal claims.
+5.7 In addition, we may provide status information on our web pages and Service with the help of a third party service provider.
+5.8 Pursuant to our “Fundamental Six” principles for data Processing, we only Process Personal Data on this legal basis (legitimate interest) after careful assessment in order to ascertain that the legitimate interest is in compliance with the interests and rights of a Data Subject (after carrying out the so-called three-step test).
+5.9
+Processing for a new purpose.
+When Personal Data Processing is carried out for a new purpose different from those for which the Personal Data were originally collected or is not based on the consent given by the Data Subject, we shall carefully assess the permissibility of such new Processing. In order to determine whether the Processing for the new purpose follows the purpose for which the Personal Data were originally collected, Veriff shall take into consideration, inter alia, the following:
+(1) any link between the old and new purposes for which the Personal Data were collected and the intended further purposes of Processing;
+(2) the context of collecting the Personal Data, in particular regarding the relationship between the Data Subject and us;
+(3) the nature of the Personal Data, in particular whether any special categories of Personal Data are processed;
+(4) possible consequences of the intended further Processing for the Data Subjects;
+(5) existence of appropriate protection measures which may consist in, for example, encryption and pseudonymization.
+6. Service Process (Automated processing)
+To verify your identity in a secure and less error-prone way, we use automatic algorithms in our Service. Read about it in this section.
+6.1 The verification process is either automated, semi-automated or done by a human:
+(1)
+Semi-automated verification process
+. A human will be involved if automated verification tool (the Robot) is not able to reach a decision on its own. This could happen, when the picture is blurry or the Robot runs into some other difficulty in analysing the verification session. Robot is constantly learning to correctly give meaning to information, detect identification fraud or theft, and does its best to make sure you are you even in the online world. We hope that together with the combined power of the Robot and humans, we can make your identification and verification process as easy and safe as possible.
+(2) In the case of
+fully automated decision-making
+, where the decision has a significant effect on you, we will be transparent about such processing. Meaning our Client asks for your explicit consent and informs you of automated processing. In some cases, where Client has other legal grounds for such Processing e.g. obligation under applicable law – consent may not be needed. You have the right to ask for information and explanation regarding the logic behind the decision Robot has made; at any time, you will have the right to request human intervention or object to the decision made on grounds relating to your particular situation.
+(3) We may have different solutions of Processing with different Clients, e.g. in some cases the verification session will
+only be analysed by a human
+.
+6.2 We would like to point out that the decision on whether Client provides its service to the User is made by the Client. Meaning, usually, even if the verification flow has been fully automated, the verification result will be taken into account by the Client for the decision on whether to provide its service or not. The verification results itself- “Approved”, “Resubmission needed” or “Declined”, is not a decision deciding the outcome regards the service applied for the User.
+7. Data Subject’s rights in relation to Personal Data
+Here you can find read about your rights under GDPR.
+7.1 If you wish to exercise any of
+your rights regarding Personal Data
+or ask questions about the Privacy Policy, please read further about your rights in chapter 3 of the GDPR or submit a corresponding request to us at
+legal@veriff.com
+. We will respond to your request by e-mail as a rule no later than within one month. Please note that before we can provide you with the requested information regarding your Personal Data, we may need to verify your identity. Please also note that if your request concerns data we have Processed as a Processor (i.e. in the course of Service provision) you must submit your request to the Client who is the Data Controller of Processing of your Personal Data. We will inform you if this is the case.
+7.2 You as a Data Subject have the following rights in relation to your Personal Data:
+(1)
+Right of access to Personal Data
+- you have the right to know which of your Personal Data we store and how we Process it, including the right to know the purpose of the Processing, the persons to whom we will disclose your Personal Data, information about automated decision-making and the right to receive copies of Personal Data.
+(2)
+Right to rectification of Personal Data
+- you have the right to request the rectification of inadequate, incomplete and/or misleading Personal Data.
+(3)
+Right to withdraw the consent
+given for the Processing of Personal Data - you have the right at any time to withdraw the consent given to us for the Processing of Personal Data. Please note that withdrawal of your consent shall not affect the legality of the Processing that was made on the basis of consent before the withdrawal.
+(4)
+Right to erasure of Personal Data (“right to be forgotten”)
+- you have the right to request that we erase your Personal Data (for example, if you take back consent for the Processing of Personal Data, or if Personal Data is no longer needed for the purpose for which it was collected). We have the right to refuse the erasure of Personal Data if the Processing of Personal Data is necessary for the fulfilment of our legal obligation, to exercise the right to freedom of expression and information, for the preparation, presentation and protection of legal claims, or in the public interest.
+(5)
+Right to restriction of Processing
+- in certain cases, you have the right to prohibit or restrict Processing of your Personal Data for a certain period of time (e.g., if you have filed an objection to Personal Data Processing).
+(6)
+Right to object
+- you have the right to file an objection if your Personal Data Processing takes place on the basis of our legitimate interest or public interest. You shall have the right to object at any time to Processing of Personal Data for direct marketing purposes, and we shall respond immediately. If we perform automated decision-making (including profiling) that will produce legal effects for you or have a significant effect on you, then you may file an objection and require human intervention in the decision-making process.
+(7)
+Right to data portability -
+If your Personal Data Processing is based on your consent and Personal Data is Processed automatically, you shall be entitled to receive Personal Data about you that you submitted to us as the Data Controller, in a structured, commonly used and machine-readable format, and you shall have the right to transmit or request us to transfer this Personal Data to another Data Controller, where technically feasible and the personal data has not been deleted by that time.
+(8)
+Submission of complaint
+- If you find that your rights have been breached, you have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the EEA. The Estonian Data Protection Inspectorate is the lead data protection supervisory authority for Veriff (registered office at 19 Väike-Ameerika St., 10129 Tallinn, phone nr + 372 627 4135, e-mail
+info@aki.ee
+).
+8. Disclosure and transfer of Personal Data
+In this section you will find information about possible disclosure of your Personal Data and / or transfer of Personal Data outside EEA.
+8.1
+Disclosure of Personal Data to authorities.
+Please note that due to legal requirements, we may be obliged to disclose or grant access to your Personal Data to the authorities and the supervisory authority (e.g. a court or a government agency).
+8.2
+Disclosure to Data Controllers and Data Processors.
+We may disclose your Personal Data to Data Controllers for whom we are Data Processors (e.g. Clients) and to our authorized processors (sub-processors), as well as to persons who are legally entitled to receive your Personal Data. For example, such authorized processors may be our affiliates, our IT partners, our advertising and marketing partners, companies carrying out satisfaction surveys, debt collection agencies, professional recruiting partners, credit registers, authorities and organisations intermediating or providing (electronic) mail, compliance or payment services and the like, provided that:
+(1) the respective purpose and the Processing are lawful;
+(2) we have diligently assessed that the authorized processor will comply with the data protection requirements;
+(3) the Personal Data Processing is carried out in accordance with our guidelines and on the basis of a valid agreement.
+If you have questions about our authorized processors, please contact us at
+legal@veriff.com
+.
+8.3
+Transfer of Personal Data
+. We Process your Personal Data within the EEA. In the event that we need to transmit your Personal Data outside the EEA, the transmission shall be in accordance with the requirements of the GDPR.
+9. Security of Personal Data
+Security is of utmost importance to us. We do our best to protect Personal Data in our hands.
+9.1 We apply various
+measures (physical, technical, organizational)
+to protect your Personal Data from unauthorized or arbitrary modifications, disclosure, acquisition, destruction, loss or unauthorized access.
+9.2 However, please note that electronic transmission or storage of information is not always 100% secure. Therefore, despite the security measures that we have put in place to protect Personal Data about you, we cannot guarantee that loss, misuse, or alteration of data will never occur. If you have any information about an actual or suspected data breach, please inform us immediately at
+legal@veriff.com
+. We will deal with the issue immediately and inform the Data Protection Inspectorate (if applicable).
+10. Retention of Personal Data
+Here you can find our data retention principles that is the length of period for which we keep Personal Data.
+10.1 To determine the appropriate
+retention period
+, we consider the amount, nature and sensitivity of the Personal Data and the purposes for which we Process it. We must also consider periods for which we may need to retain Personal Data in order to meet our legal obligations or to deal with complaints or queries and to protect our legal rights in the event of claims being made.
+10.2 We shall store your Personal Data for as long as required by law or in accordance with the law, or for the purposes stated in this Privacy Policy.
+10.3 We store the data of Users during the period set forth in the Agreement (we may have different data retention periods agreed upon with the Client lasting up to 3 years) or as long as it is necessary for possible establishment, exercise or defence of legal claims of Users, Clients or ourselves.
+10.4 We may store your Personal Data, for a longer period than the Agreement duration if we have a lawful basis do to so, e.g. you have given us consent to use your Personal Data for the development of our Services or we have assessed that we have legitimate aim to do so, e.g. in pseudonymized form or for the purpose of the Service history log.
+10.5 After the expiration of the Personal Data storage period, we shall anonymize or permanently erase your Personal Data.
+11. Children's Personal Data
+Here you can find information on how we deal with children's personal data.
+We may Process the Personal Data of children (i.e. persons under 16* years of age; *depending on jurisdiction), the Data Controller shall take steps to ensure that there is a consent for such Processing from a guardian of that child. If we learn that we have collected the Personal Data of a child without guardian’s consent, we will take steps to delete the information as soon as possible.
+12. Jurisdiction specific notices
+You may have different rights depending on where you reside. Read about them in this section.
+12.1 High quality Services are provided to Users all around the world by Veriff.
+12.2
+Notice to Individuals Who are Residents of the State of California
+(1) For Users who reside in the California State, we must provide some additional information mentioned in this Privacy Policy.
+(2) Personal information about a User may be collected from the following categories:name, address, or identification number; information about your employment, financial relationships, real estate, personal property, business, employment, education, or health; biometric data; GPS and electronic location data; information about electronic devices; and conclusions based on information provided.Information collected is determined by the client and may not be collected from all categories.
+(3) As regarding to the Data Subject Rights, California law permits California residents to request information about the categories of personal information, specific personal information collected and the business purpose for collecting this information by contacting
+legal@veriff.com
+or submitting it
+online
+;
+(4) Veriff does not disclose any of your information or the validation of your identity to any other party.
+12.3 Notice to Individuals Who are Residents of the State of Illinois
+(1) Biometric Information Notice for Illinois Residents:
+Veriff may collect certain biometric information during the identity verification process. Collection of this information is required to verify your identity based on instructions from Veriff’s client (client). This information is only retained for the period required for the verification process or the period required by the client, but this data will not be retained for more than three (3) years after your last interaction with Veriff. By selecting the option to continue with the verification process, you consent to providing Veriff with biometric information and for Veriff to use and store that information for the purpose of verifying your identity and as required by the client.
+13. Important documents, guidelines and procedures
+Here we set out all the documents, procedures and Registers, through which you will be able to exercise your rights in the best way, and know how we store and Process your Personal Data.
+13.1 Our Privacy Policy is implemented on the basis of the following documents, guidelines and procedures:
+(1) Register of processing operations which sets out the purposes and manners of Personal Data Processing, types and categories of the Personal Data being Processed, and the respective bases for Processing;
+(2)
+Cookie Policy
+lays down the rules on how we use cookies and other web technologies;
+(3)
+Processing specifics for our (Potential) Employees
+sets forth privacy principles for recruits and employees. If you are a (potential) employee, please read about your rights and our principles;
+(4) Policy of the organisational and technical measures which sets out various measures taken by Us to always maintain the confidentiality and security of Personal Data;
+(5)
+Responsible Disclosure
+sets forth our principles regards to security vulnerabilities.
+13.2 In case you have questions about these, please contact us.
+14. Contact details and information
+Here you find our contact details.
+Please review this Privacy Policy carefully and contact our data protection officer (DPO) at
+legal@veriff.com
+if you have any comments, questions or concerns.
+15. Availability of, and changes to, the Privacy Policy
+Here you can find information about changes made to the Privacy Policy and informing you about the changes.
+15.1 This Privacy Policy is available on our Website.
+15.2 Kindly note that we may modify the Privacy Policy from time to time. The modified Privacy Policy will be uploaded to our webpage and we may notify Clients and Users whose contact information we have about major changes in the Privacy Policy.
+15.3 You are advised to review this Policy periodically for any changes. Changes to this Policy are effective when they are posted on this page.
+Last update: 30.11.2020
+
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.commailto:legal@veriff.com
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Product
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Resources and Blog
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Don't keep honest customers waiting
+Identity verification done in seconds
+Schedule a demo
+► Learn more
+New Feature!
+We now provide
+category extraction for driver's licenses
+, making verification even better!
+Learn more
+New Feature!
+Beyond face-to-face verification
+Accurate, global, and easy on your customers
+95%
+Verified on the first try
+Features like Assisted Image Capture and an optimized verification flow maximize your conversion rates.
+Learn more about our product >
+8,000+
+GOVERNMENT-ISSUED ID's
+Veriff supports a growing list of identity documents, covering over 190 countries across the globe.
+See all supported IDs >
+36
+LANGUAGES SUPPORTED
+Our localization team is dedicated to giving you the reach you need and is open to adding languages on demand.
+See list of languages >
+Identity verification that makes onboarding easy
+Security that helps your conversion rates
+Veriff collects more data points than any other identity verification provider. While your users submit their verification data, machine learning technology is used to collect additional technical inputs without adding any extra steps.
+Test verification flow
+► See how it works
+Learning from every verification
+Striving for speed and accuracy
+With the power of maching learning, and AI-driven automation, Veriff is consistently ahead of digital fraud. Using Assisted Image Capture, we help users get verified on the first try, and each verification provides more data for our machine learning technology to continue evolving. This means quicker and more accurate decisions.
+Get pass rates up to 95%
+Verify 8,000+ government-issued ID's
+Configure according to your needs
+Assisted Image Capture
+In-house verification specialists
+See all features
+See pricing
+We're certified
+Veriff is compliant with CCPA, GDPR, SOC2 type II, and WCAG Accessibility Guidelines
+As featured in
+Press resources >
+Want to learn more?
+Our blog is packed with insights from the people who make verifying millions of identities a year possible.
+Go to blog
+Case studies
+Like No Bank You’ve Seen Before - Rebellion redefine banking from Spain with help from Veriff
+Rebellion is an exciting Spanish fintech, offering banking services to the digital generation. They've been partnered with Veriff for IDV since 2019, and we asked all about their experiences of our partnership so far.
+Case studies
+Uphold Will Soon Be "Part Of Your Daily Life" With Help From Veriff
+We spoke with Chris Adjei-Ampofo, Uphold’s CIO, about the relationship between the two companies, how Uphold tackles the challenges that fraud presents, and how Veriff have performed so far.
+Case studies
+goUrban are making their mark on mobility with the help of Veriff
+We check in with goUrban, after two years as partners of Veriff, to see how they’ve been progressing since 2018 and get their view on Veriff so far.
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/assisted-image-capture
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Product
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Resources and Blog
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Assisted Image Capture
+Helping your customers get verified
+Boost conversion by up to 30% by making verification a breeze. Integrate AIC into your existing verification flow without switching to Veriff, and welcome more honest customers.
+Contact Sales
+Test verification flow
+More sign-ups
+Reduce basic errors and cut down on resubmissions so people get verified first-time.
+Boost speed by 3x
+With less rejections due to poor images, verifications get faster and easier.
+Improve customer experience
+Fewer verification attempts means happier customers and less work for your support.
+How it works
+An active photo assistant
+With machine learning technology assessing verifications in real-time, users are
+
+guided when taking every photo.
+This guarantees sharp, well-lit images with properly framed ID documents and all the necessary information to pass first time.
+Test verification flow
+► See how it works
+How it can help you
+Simplify your verification flow
+Assisted Image Capture uses a two-way API to seamlessly integrate with your existing customer verification flow. With full integration support and dedicated account management, adding AIC is straightforward and simple. And you don’t need to switch providers.
+See integration options
+We're certified
+Veriff is compliant with CCPA, GDPR, SOC2 type II, and WCAG Accessibility Guidelines
+Add Assisted Image Capture
+Contact our dedicated sales team to learn more about the integration, functionality and pricing.
+Contact Sales
+Try the full package free for 30 days
+A complete identity verification platform
+Our verification tools help remove common obstacles between your customers and your product, allowing you to focus on delivering excellence.
+Learn more
+Want to learn more?
+Our blog is packed with insights from the people who make verifying millions of identities a year possible.
+Go to blog
+News
+Veriff5 - An interview with Kaarel and Janer about 5 years in Veriff
+It's Veriff's Birthday week! So we spoke to our CEO and COO about how they met, their first five years in Veriff, and what they see in their future.
+Resources
+Six Of The Hottest Cryptocurrencies Out There Right Now
+We take a look at six of the most prominent and promising cryptocurrencies on the market, and assess why they're so popular along with looking at their recent value.
+Case studies
+Uphold Will Soon Be "Part Of Your Daily Life" With Help From Veriff
+We spoke with Chris Adjei-Ampofo, Uphold’s CIO, about the relationship between the two companies, how Uphold tackles the challenges that fraud presents, and how Veriff have performed so far.
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/news/veriff5-interview-with-kaarel-kotkas-and-janer-gorohhov
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+News
+Veriff5 - An interview with Kaarel and Janer about 5 years in Veriff
+It's Veriff's Birthday week! So we spoke to our CEO and COO about how they met, their first five years in Veriff, and what they see in their future.
+Patrick Johnson
+,
+
+October 23rd, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+In recognition of
+Veriff’s 5th Birthday
+, we spoke with our founder Kaarel Kotkas and co-founder Janer Gorohhov, about their personal journeys across the last five years and what they see for themselves in the future. It was an entertaining, enlightening, and at times very humorous conversation.
+Enjoy!
+To start, Kaarel, what did you feel on the day you started Veriff? Did you have any sense of where we would be five years later?
+KK: If you’re asking if I knew it would be big, then definitely yes.
+The bigger plan to make Veriff a global brand didn’t really chime with our early investors though, because our initial product was focused on
+Estonian e-Residency
+and the potential of 10 million e-residents signing up with Estonia and needing bank accounts. (At the time of writing there are
+almost 73,000 e-residents
+, so it didn’t quite work out as expected.)
+Ultimately, the Estonian banks themselves made things difficult for e-residents, but it helped drive us to build a product which we wanted to be trusted by anyone using it. This put us in the right direction.
+What about your personal journey, from young founder involved in so much of the day-to-day business, to established CEO overseeing our progress and seeing the big picture?
+KK: I don’t personally think I’m an established CEO - I think that’s a long journey and I have further to go! If you consider - is Veriff bigger than our initial goal, then no, not yet.
+For me, I’m consistently looking for how we can get things done, and I do enjoy doing things alone, getting direct and instant feedback. But the reality demands that we grow our team, because we all only have 24 hours in a day, and to make something earth-shifting happen, it demands so much - you need a team.
+CEO was actually never really the goal for me, but it’s the way I can get things done.
+JG: It’s a necessary evil right?
+KK: To some extent, yes! Janer and I always enjoyed working together and getting things done as a team, but as you start to put distance between yourself and the product, it becomes an itch you can’t scratch anymore. Ultimately though, I do enjoy my role now, and I appreciate its importance.
+And talking about that initial investment you mentioned - how does it feel now when you’re speaking with potential investors - have things gotten easier now you have such a solid product?
+KK: To some extent the feeling is still fairly similar, because investors still don’t know what Veriff is, and they don’t know the market in the same way as we do. They know what’s in front of them, and you have to be there and make your messages clear.
+And you’re always nervous - if that feeling goes away then that becomes a bigger problem. You should never feel that you know everything, there’s always something to learn. The nerves excite you.
+Let’s bring our focus to your partnership - how did Janer become involved in Veriff, and ultimately, our co-founder?
+KK: I remember Janer making contact with me after a social media marketing event, we knew each other previously, and we met up, had a chat, walked half of the way home and agreed to keep talking. And Janer was very curious - “What’s happening? How are things going?”. We went for coffee or lunch, and every time we worked together I could feel positive vibes. I started to consider how we could get Janer to join the team, and how we could start building Veriff together.
+Later on, we were having lunch in Tallinn Old Town, and Janer had already accepted an offer from another company. And Janer is an incredibly honorable person, he felt terrible as he’d given his word, and he was considering how he could possibly break that promise. I’ll admit I did try and convince him a bit, telling him they’d understand that this was a good opportunity. How did you feel about it, Janer?
+JG: I think you definitely got most of it right from your perspective - when we met, Veriff and Inbank had just released the initial product and I saw it on Facebook as we were already friends there. And I was curious about it, as I appreciated the innovation element. At the time I was also in Tartu finishing my Bachelor’s degree, but I’d already been to Garage48, I was already interested in working in a start-up or building a start-up, so it was an idea in my mind. There were then about 6 months between that marketing event you mentioned and us having coffee and talking about Veriff, and in that time I finished my degree, moved to Tallinn and signed a contract with another company.
+It may have been down to Kaarel’s convincing, or maybe not, but I definitely did a
+SWOT analysis
+to understand whether I was making the right decision. It was tough, I had given my promise (digitally - Estonian style), and it was the hardest decision I’d made at the time. Ultimately it’s also worked out to be the best decision.
+KK: And thinking back to before that moment - I really wanted Janer in our team, and he’d then said ‘No’ to the other company, but he was joining Veriff due to belief in the company, there wasn’t a financial incentive. I had huge respect for that, he gave up a lot in terms of the potential short-term gain, to take the longer ride with us.
+JG: I think the main motivator for me in the short-term was a love of the vision, but also the opportunity to learn my role - which ultimately became Chief Operating Officer (COO). What is ‘operations’? It’s so vague, I still feel that I’m learning about the position now. I think even in the early days, before I had a contract, I got to work on so many things - legal, contracts, sales, product, a little bit of everything really. And I loved that self-education element of it.
+KK: And when he joined the team he effectively said “This is the cost of my rent, this is how much I need to eat, and we can start from here.”
+JG: And when he says ‘eat’, I meant ramen noodles specifically!
+KK: It was a great beginning, there was so much going on, we were both doing so much. One week you’re working on the product, one week you’re a developer, etc. And you’re making sure that this will all work towards a properly structured approach later, that you do something once, and then figure out how the specific team can take this over and build on it. And it was genuinely fun. Janer had been with us for a week, and walked into a sales meeting with a local bank to sell Veriff to them! No onboarding, nothing like that.
+JG: And I didn’t know the product at all, I’d made a presentation, rehearsed, tested the product, tried a demo - but there are always things you can’t predict. I was lucky that nothing really gave me away. Someone at the back of that room asked “How do you change the language in the product?” and as I took a pause, not knowing the answer at all, someone else shouted “It’s there in the top right corner” so I just said “Precisely, that’s where it is.”
+KK: We were both all in from day one - we spent days and nights in each other’s company and I could sense that this was a lifelong partnership, a brotherhood.
+JG: I really believe that great relationships are built in adversity. When we first launched with LHV (a local Estonian bank), we were doing development until 5am, and we were mostly there to support
+our lead developer Ilia
+and his team. You have to go through the tough things, but equally find the enjoyment in them.
+KK: There’s probably a book full of stuff we’ve been through!
+Looking at Janer’s personal journey, how has that been for you as the COO? And did you have a sense that you’d become the faces of the company together?
+JG: I think there’s a general theory in start-ups of the roles of CEO and COO, that they have to be the yin and yang - what Kaarel does well, I should do badly, and vice versa. I think it’s not strictly true with us, I think being COO means you need to be a jack-of-all-trades and that includes publicising the company as well. So if Kaarel isn’t around then I have to go out and promote Veriff - at the beginning it was uncomfortable for me, which shows that it’s a real skill, but I’ve definitely gained confidence doing it. I think the whole marketing team pushing me to put myself out there has actually helped me develop as well - it’s a task that you do again and again and you keep getting better.
+So, what’s the biggest highlight across the five years of Veriff so far?
+KK: There’s one thing I’ve noticed actually, over time, that the amplification of wins and losses gets bigger and bigger. So, the big wins, welcoming new clients, closing investment, feel amazing, but equally the big losses feel that much worse in contrast. This makes it hard to have perspective in a sense as what you’re looking to achieve is a moving target.
+When
+Blockchain
+was close to coming on board, I was coming back to Estonia from the UK, and I appreciated how massive a step it was for us. Just that a deal that was so big for us at the time was suddenly a real possibility. The team put in so much effort to make it happen - so it was definitely a highlight for the significance.
+We also welcomed another big client a little while ago, who we can’t name for now, but we were so exhausted at the time that we could barely celebrate! Despite the fact that they were a client I didn’t foresee signing up before something like 2027. It definitely gave us a level of validation that you really hope for in this field.
+JG: Yes, I never imagined that that piece of news would just feel ‘ok’ - it was a big deal for us! Thinking of my own highlights, I agree with a lot of what Kaarel said, and I feel like there are highlights almost weekly - getting better and better. Perhaps that diminishes highlights of the past, so it’s important to maintain that momentum and keep having great moments, and make it a habit.
+To highlight something else awesome, how fast we grew from our starting point when we signed a contract and said “Ok, how do we do this?”. 6 months of hiring, then developing automation, then actually doing verifications, then supplying the verification team with Red Bull! It definitely stands out.
+KK: This reminded me of something - that you need to do what you like, and have big dreams, but even if they don’t come off as you planned initially, you can still achieve amazing things. I think Veriff’s team has shown that - they can make the impossible possible. It’s the attitude of the team - no matter what the challenge, we’ll make it happen.
+We’ve already discussed the future ambitions of Veriff, but what are your personal ambitions for the next five years? Is there something you hope to learn, or something you hope for individually?
+KK: I think when I became an entrepreneur, there wasn’t a financial motivation, as that doesn’t take you very far. You need to see a problem that won’t solve itself and want to solve it. And then put everything into achieving that.
+Two years ago, we had an offer on the table for Veriff - “Guys, well done, you can go and do something else now, your financial future is totally safe” - but there was no way we could take it. We didn’t feel we were even halfway towards what Veriff could be. That was the first time we saw that the problem was something massive.
+The only metric behind ‘value’ in the current world is revenue, and that offer helped show us the potential value of Veriff. It meant we could push for more investment, and try and do things bigger and faster.
+The main thing for me is to have this overall impact - to solve the crisis of identity online. You shouldn’t be able to pretend to be someone else and create chaos. If we solve that, it would be huge.
+JG: I would perhaps challenge the idea of personal ambition - I think our personal ambitions will always reflect the overall team ambitions.
+For myself, I have my own targets for self-development, but they will also pay back the team. I think something wonderful that has happened in the midst of the madness of 2020, was that we got direct feedback from end-users who’ve been able to do things thanks to Veriff. To get more of this feedback over the next five years would be fantastic.
+KK: This feedback was really so cool - to hear that people had genuinely got things done using Veriff. People were so genuine, and that can get lost in our B2B2C world. It gives us a lot of strength.
+KK - Janer I have a question! In the future, when you have more free time - what’s the other business you’d start?
+KK: I know mine, I want to start a little car wash. Kaarel’s Kaar Wash!
+JG: I’m not surprised! On your birthday, your present to yourself was going to get your car washed!
+I definitely see everyday things I feel I could improve, and I think I’ve proven to myself that no matter what sector I go into, I just need commitment to do things. Early on at University I actually helped create
+a table brand with some friends
+, but I had to exit from it as I didn’t have time to be committed to two businesses. I think there are options but I’ve never given it much thought as I’m already growing one business and don’t have time for something else for now.
+I think I’d enjoy going back into software engineering, and challenging myself to start from scratch with this again.
+KK: If you go into that I could go into medicine. Not as a doctor. Although you never know.
+JG: Maybe you’ll find the solution for being a doctor without needing a degree.
+KK: Yes - imagine that - “I have 10 years’ experience running a business, and I’ve watched a lot of YouTube videos about how to do heart transplants, here I am!”
+JG: Kaarel Kotkas presents - Operation Simulator!
+Patrick Johnson
+Copywriter
+Patrick takes care of the voice of Veriff - coordinating the copy throughout our brand and product and making sure we're constantly delivering engaging and excellent content.
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to News
+News
+Kaarel Kotkas: My Teammates Would Describe Me as a Visionary
+On an October morning, Veriff founder Kaarel Kotkas was speaking with Veiko Valkiainen about leadership. What does it take to be a great leader and a successful entrepreneur? How do you reach your goals? Tune in to hear Kaarel's thoughts on leadership.
+News
+Veriff in 2020: The Story So Far
+Kaarel Kotkas, Veriff’s CEO & Founder, talks about how 2020 has been for Veriff so far, and what the company has planned for the next 6 months
+News
+Kaarel Kotkas: Veriff's a Lighthouse in Identity Verification Sector
+Kaarel Kotkas, the founder and CEO of Veriff gave an interview to Baltic Startup Mafia podcast talking about how Veriff was started and where it is heading. Tune in!
+Back to News
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/news/on-an-uncharacteristically-chilly-rainy-day-in-july
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+News
+Everything you do should come straight from the heart
+On an uncharacteristically chilly/rainy day in July, I had the chance to interview (via Zoom) Ilia Aphtsiauri, one of the founding engineers in Veriff.
+David Lorbiecke
+,
+
+July 31st, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+First of all, thank you for taking the time to talk to me today. To get our readers up to speed, could you first tell us a bit about yourself? For example, I know you’re originally from Georgia (the country). What brought you to Estonia?
+You may or may not know, but there’s a pretty tight relationship between Estonia and Georgia. Estonia is kind of advertised as a powerhouse of technology in Europe. In particular university fairs that came to Georgia to promote Estonian universities (specifically Tartu University in my case) was the real decision maker. The opportunity to study and work alongside tech innovators was a pretty big selling point for me.
+Ilia Aphtsiauri at Veriff. Photo by Jake Farra.
+That’s great to hear that there’s a connection between the 2 countries. It seems like in Estonia, Georgia’s advertisement is more about visiting rather than studying.
+Yes, and right now is actually a good time to visit in regard to a lot of the restrictions surrounding travel to other countries. In fact, as a tourist, it would probably be easier for you to travel there than it would be for me – considering quarantine measures, etc.
+You came here originally to study at Tartu University, how long ago was that?
+It was 6 years ago, in 2014, that I came to get my Master’s in Software Engineering (I had finished my Bachelor’s in Georgia). Interestingly enough, when applying for jobs and putting down that I studied in Georgia, several people thought I meant the state rather than the country – for better or worse, I’m not sure.
+Now that we know the
+why
+of how you came to Estonia, how did you first come across Veriff and what in particular attracted you to the company?
+During my time at Tartu University, I was finishing up an internship and looking at current options when I stumbled upon a good example of Facebook advertising – an open position at Veriff. I opened up the job posting and saw all of the technologies they dealt with were ones that interested me and the webpage itself looked nice. Oddly, when I went to research more about the company, there was almost nothing at all to be found (Ilia says with a smile). Regardless, I still sent my CV and scheduled an interview - which accidentally ended up being via a Skype call while I was on a ski slope because I mixed up the days. During the unconventional interview, the full idea and mission statement were explained to me and it seemed to be something perfectly suited for me.
+When you started, you were one of the first on the team, correct? Sort of when Veriff was still in the idea stage.
+Right, Veriff was quite small at the time that I joined. In fact, on my first day I came to the office, which I thought all belonged to Veriff, only to find that Veriff at the time was basically just a table in one corner of the building. Veriff was my first startup, so I wasn’t quite prepared for this, but I quickly fell in love with the ability to shape the company that comes with it being a startup.
+Startup life at early Veriff days. Photo by Ilia Aphtsiauri.
+How has your experience in the company been so far?
+I guess you could best describe it as a rollercoaster. We were initially extremely excited to get things going but struggled to get clients in the beginning. We went through a series of different projects and ideas, each one failing…until we finally started to pick up clients. When that happens, your emotion peaks and you realize all the hard work you’ve put in was worth it. From there, we would just continue to expand, moving from just the Baltics to quickly dealing with companies internationally.
+Travelling with friends. Photo by Ilia Aphtsiauri.
+You’ve been with the company for 4 ½ years. Are there any particular changes you would like to expand on during your time? Office moves? Personnel changes? Etc.
+The biggest change is getting new people, but at the same time it seems like everyone we’ve been able to bring in always fits the culture. Moving from 4 to 200, there almost seems like there’s been no change. This is something I certainly find fascinating. Something I’m proud of us for achieving and maintaining.
+Going back to Georgia, how was living around Tbilisi? How would you compare it to living in Estonia?
+Well, something more obvious is how much more emotionally open people are in Georgia compared to Estonia – sometimes maybe too emotionally open. Also, and maybe it’s just because I live in a bit of a tech bubble, but compared to Georgia it seems like things are politically much more at ease.
+Perhaps the biggest shock was the difference in the relationship with neighbors. In Estonia, you don’t really talk to your neighbors, but in Georgia you can easily go to your neighbors for a favor or just go over for a chat – it’s odd to not have that kind of connection here.
+After over 4 years, do you feel like you’ve become involved in the tech scene here in Tallinn?
+Honestly, it’s something I would like to be more involved in than I am now. I would love to be able to contribute more to the startup scene, helping to share the knowledge I’ve learned and mentor others in achieving their goals.
+I hear you’re a pretty competitive person and keen on skiing. How has living in Estonia impacted your skiing habits?
+When I first came to Estonia, I knew it was in the north and that it would be colder, but I never really thought about the fact that it would be so flat. Before coming here, I couldn’t imagine living somewhere where there’s no mountains to be found. As soon as I was accepted to Tartu University, I looked up “Estonian ski resorts” and was astonished when I found out there was none to be found. For a brief moment, I started to second guess whether or not attending Tartu University was worth it.
+Skiing in Mestia, Georgia. Photo by Ilia Aphtsiauri.
+Do you have a chance to go back to Georgia or other places to ski?
+Yeah, I go back to Georgia at least once a year, but I recently ruptured my Achilles while playing basketball, so no sports for me until around winter.
+Looks like we’re coming to the end of the interview, which means it’s time for the ‘quickfire’ questions. Ready?
+I’m ready to go.
+What book is a must read for you and why?
+One book that I was really impressed with was “All Quiet on the Western Front”. The way it ends leaves such an immense emotional impact on me.
+What podcast would you recommend?
+Currently I’m listening to “Dark Net Diaries” which is about hacker stories presented in a very interesting way. The host does an excellent job of describing the entire scenario of stories.
+Mac or PC?
+Mac, or Linux if that was an option.
+If you weren’t an engineer, what would you be?
+Well, my original plan was to be a professional tennis player, but that didn’t pan out so… perhaps a wine maker.
+And the last question. What is the best advice you’ve ever been given?
+That’s tough, but one of the best pieces of advice that I have heard (not given directly to me) was from Nelson Mandela about how everything you do should come straight from the heart.
+David Lorbiecke
+Freelance Copywriter
+David has been working in the IT startup world for the past 5 years, but when he’s not doing that, he spends his time writing music blogs and hosting pub quizzes.
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to News
+News
+I actually wouldn’t recommend this for any sane person
+Joonatan Samuel is without doubt one of Veriff's brightest and most exciting young minds. We talk to him about his time in the company so far, the experiences he's gained during his career, and his love of running (even in winter!).
+News
+Kaarel Kotkas talks to SafetyDetectives
+Our CEO, Kaarel Kotkas, was interviewed by SafetyDetectives.com, so we took the opportunity to share his interview right here. Enjoy!
+News
+Indrek Heinloo joins Veriff as our new Chief Operations Officer
+Veriff is excited to announce the arrival of Indrek Heinloo as our new COO. We caught up with him about his career so far, and his immediate plans in Veriff.
+Back to News
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/reports
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+Reports
+Back to all articles
+Reports
+The Veriff Mobility Fraud Report - January to June 2020
+In our third fraud report, we take a look at the impact of online and identity fraud on the world of mobility in 2020, and the most prevalent types of fraud seen by Veriff, with data gathered from our verification flows.
+Reports
+The Veriff Fintech Fraud Report - January to June 2020
+In our second fraud report, we take a look at the impact of financial crime and fraud on the world of fintech in 2020, and the most prevalent types of fraud seen by Veriff, with data gathered from our verification flows.
+Reports
+The Veriff Crypto Fraud Report - January to June 2020
+We looked at the impact of financial crime and fraud on crypto in 2020, and the most prevalent types of fraud seen by Veriff, with data gathered from our verification flows.
+Reports
+The Veriff Identity Fraud Report 2019
+The Veriff Identity Fraud Report draws conclusions about the current state of identity fraud. These are based on contemporary research and millions of data points gathered through our verification flows between January and June 2019.
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/reports/identity-fraud-report-2019-part1
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+Reports
+The Veriff Identity Fraud Report 2019
+The Veriff Identity Fraud Report draws conclusions about the current state of identity fraud. These are based on contemporary research and millions of data points gathered through our verification flows between January and June 2019.
+Sarah Hamid
+,
+
+October 24th, 2019
+Share
+Share
+Love this blog? Why not share it with the world?
+Starting with an overview of the current state of fraud in a growing digital economy, the following report will shed light on the causes and forms of online identity fraud today, and close with industry-specific recommendations on how to put a stop to it.
+You can’t sweep identity fraud under the rug in 2019
+Since the
+birth of the World Wide Web 30 years ago
+, it has become an inseparable aspect of day to day life. Within only a year, the number of users on the Internet increased by
+9.1%
+, compared to a relatively small
+1.1%
+increase in the total population.
+Source
+:
+Data Reportal
+Whether it is the sheer increase in the volume of online users, or that fraudsters are innovating at a faster rate than corporate security teams and anti-fraud technology, trust online is increasingly difficult to uphold. If you find this tough to swallow, take a look at the cost of identity fraud for people and businesses.
+The consumer and business cost of online identity fraud
+In 2018, a staggering
+$1.48 billion
+in losses resulting from online fraud complaints reported to the
+Internet Crime Complaint Center
+. That’s a 28% increase compared to their 2017 numbers. Businesses aren’t safe either. A
+2018 survey published by EY
+revealed that 33% of surveyed business leaders saw fraud and corruption as one of their greatest risks.
+Fintech companies and banks usually come to mind when you think about fraud, but other industries are just susceptible albeit in different ways. According to
+a study by ThreatMatrix
+, the fraudulent new-account trend makes global e-commerce transactions
+ten times riskier
+than they used to be.
+Adding to that, our data gathered from millions of verifications a year detect that as much as
+5% of all attempted verifications are fraudulent
+, with some industries like cryptocurrency and blocktech seeing rates as high 24.6%.
+The many manifestations of online identity fraud
+While identity fraud has a severe impact on private individuals and businesses, it also trickles into political and social issues. Without proper identity verification practices in place, corruption, social manipulation, and a pervasive sense of doubt become serious problems in the modern world.
+1. The fake review problem
+Back in 2013, the European Commission found as much as
+16% of online reviews were fake
+. A more recent
+study by the Washington Post in 2018
+estimated
+57.8%
+of reviews for selected products were suspicious.
+Rather than bots, which are easy to detect, most fraudulent reviews are a result of multi-accounting. Entirely preventable with the right identity verification process in place, review fraud is particularly disturbing when noting that
+84%
+of people trust online reviews
+as much as they trust their friends
+.
+2. Political polarization and distrust in media
+Trust in online reviews is just the tip of the iceberg. The increasing polarization in today’s social and political spheres is undeniable, and the rise in online adoption has also contributed to the volume of misinformative media channels and accounts online.
+According to the
+2019 Digital News Report
+, almost a third of surveyed participants claimed that they actively avoided the news. Moreover, trust in social media platforms like Facebook and YouTube is also flailing, both as a result of hate speech, fake accounts, and compromised user privacy as seen in the Cambridge Analytica Scandal.
+3. Online fraudsters are moving fast
+What were once best practices for online safety have become easy to hack by even the most amateur fraudsters. Research by
+Amnesty International
+found that hackers were easily capable of breaking into thousands of Yahoo and Gmail accounts, even those with 2FA enabled.
+Other forms of account takeover fraud are also making use of artificial intelligence, and in March 2019 the chief executive of a UK-based subsidiary was impersonated by an
+AI-based voice manipulation software
+. The attack resulted in a fraudulent transfer of $243,000, as well as concerns regarding the rise of innovation on the wrong side of the fight against identity fraud.
+The future of fraud prevention will ultimately rely on advances in machine learning and AI-based solutions that are capable of countering such attacks, especially as they increase in volume.
+The role of identity verification in fighting fraud
+Combating identity fraud and the many facets of its damage calls for changes in the current approach to user verification online. With the rise of internet adoption, fraud innovation and a growing reliance on online reviews and digital media are inevitable.
+We expect to see more verification checks in online services like marketplaces and social media platforms, as well as a couple of other trends that will make more effective identity verification essential in 2020.
+Trend #1 - Tighter regulations for fintech companies
+The Fintech industry is already on its way as far as regulatory pressure for higher security goes.  On September 14, 2019, the
+
+European Union PSD2 directive
+went into effect, forcing all financial institutions to implement Strong Customer Authentication (SCA) practices.
+The authentication options include a one-time passcode, push notification, and a login or transaction supported by public-key cryptography. And even with these SCA practices in place, our data shows that there is still room for fraud to take place, particularly when it comes to two-factor authentication methods.
+Trend #2 - The need for more secure user authentication
+It is expected that companies across all sectors will search for a more secure form of login that does not solely rely on the increasingly vulnerable device authentication. Identity verification software like Veriff will offer much-needed security across a range of services, offering a secure alternative that
+does not cost companies conversions
+.
+Overview of identity fraud by industry
+Veriff is used to connect companies with honest customers. Millions of data points collected between January and July 2019 via Veriff’s end-user flow pinpoint the core causes of online identity fraud. However, different industries have varying levels of risk depending on the markets they serve, the nature of the product, and the incentive to commit fraud.
+Here are the most common categories of fraud across all industries investigated:
+Confirmed Fraud:
+The document is false, the session is not live, device or document security is compromised, or any other case where fraud is easily confirmed.
+Suspicious Behaviour
+: In our video feed, the user appears to be coerced, under the influence, or other actions suggest access from different locations and devices simultaneously that may be the result of farming, scamming, or other forms of fraud.
+Attempted Impersonation
+: The person’s face doesn’t match the photo in the shown id during verification.
+Document Tampering
+: The selected document looks modified or damaged in a way that suggests tampering.
+Velocity Abuse
+: The same user verifies themselves multiple times after previously being approved.
+Identity fraud in the fintech industry
+When it comes to financial institutions such as peer-to-peer lending marketplaces and banking applications, the most prevalent form of fraud falls under the umbrella of suspicious behavior.
+Suspicious behavior encompasses a range of actions monitored via live video feed that suggest the user is unaware of what is occurring, or that the person being verified is not even physically completing the verification process.
+Common identity fraud cases in fintech
+The most common form of suspicious behavior observed by is when customers appear to be guided through the process, unaware of what the verification taking place is for. This suggests coercion, alongside other common cases where a third party is holding the ID in front of the end-user, who is simultaneously being guided over the phone or via remote desktop software.
+Other, less common cases of confirmed fraud include falsified documents, photos that are either printed out or not taken during the live session, slideshows used in the video feed, or previously detected fraud activity. Document tampering is also seen in the form of spotted irregularities in IDs and attempted impersonation as the verification process is attempted with another person’s ID.
+Recommendations for fintech companies fighting fraud
+With the majority of fraud cases identified through live video activity, the fintech industry must be particularly vigilant when it comes to preventing identity fraud.
+Account takeover fraud, in particular, is a high risk, and less secure methods such as a one-time passcodes do not adequately prevent cases of coerced or suspicious logins. In short, the SCA practices enforced by the European Union PSD2 directive do not cut it.
+Identity fraud in the gaming industry
+Like the Fintech Industry, the most common form of identity fraud seen in our clients in the gaming industry result from suspicious behavior observed in live video feeds during the verification process.
+However, our gaming industry clients, consisting primarily of esports platforms, see nearly
+six times more cases
+of suspicious behavior, which is possibly a result of the appeal of competitive esports to underage audiences.
+Common identity fraud cases in gaming
+Our Gaming clients experience suspicious behavior in 7.69% of all verifications, although not exactly in the same way as fintech clients. In addition to appearing unaware of what the verification process is for, and being guided by a third party, gaming clients also see cases where a third person is submitting a session while the customer is entirely unaware of the process.
+Other industry-specific cases include attempted personation, with minors using their parents’ identification documents as the most common. Document tampering is also seen although not quite as much, and the least common form of identity fraud comes in the form of photos shown from another device which do not belong to the person completing the session.
+Recommendations for gaming companies fighting fraud
+The competitive gaming industry is booming, with esports in particular set to
+hit $1.1 billion in revenues in 2019
+. As the number of investments and interest grows, so will the incentive for identity fraud, both for the sake of accessing high-earning accounts and to bypass age restrictions. Staying vigilant as demand increases will be the key to managing higher volumes of users and fraud.
+Identity fraud in the mobility industry
+The mobility industry has some of the lowest identity fraud rates, with suspicious behavior and confirmed fraud nearly neck to neck as the top causes. The mobility sector is relatively new and developing fast, which may explain the significantly lower prevalence of identity fraud in comparison to established industries with higher levels of risk.
+Common identity fraud cases in mobility
+Of all forms of suspicious behavior, the most common was the customer being guided through the process while seemingly unaware of what the verification was for.
+Confirmed fraud was often in the form of verification being performed from a compromised device or using an ID that was previously flagged for fraudulent activity. There were also cases where the photos shown during verification were from another device and did not belong to the person submitting the session.
+Recommendations for mobility companies fighting fraud
+As the mobility sector continues to shift focus away from production and moves towards more
+service-based business models
+, account security and anti-fraud practices will become increasingly important.
+Continuously monitoring fraud cases and adapting security measures accordingly will play a huge role in maintaining these low rates in an industry that is growing fast.
+Identity fraud in the crypto industry
+Cryptocurrency and blockchain services experience the highest rates of fraud. The most likely cause for this is the nature of promotional activity in the sector, which usually involves “airdrops” or free money campaigns that give fraudsters a high incentive to cheat the system. This is why velocity abuse is seven times more likely to happen than suspicious behavior.
+Common identity fraud cases in crypto
+The most common form of velocity abuse is when a customer is attempting to verify themselves multiple times after being previously approved. This can be done with the same identification document or with different customers using the same device.
+Our crypto industry clients also see forms of suspicious behavior unique to the sector, such as users appearing under the influence and sessions accessible from more than one country and device, suggesting scamming.
+Farming is also uniquely prevalent, where the same user repeatedly submits sessions of other people in the same settings, usually with the portrait pictures taken by someone else. Known fraud in the form of printed photos is also common, as well as slideshows in the video.
+Recommendations for crypto companies fighting fraud
+Because cryptocurrency is built on the principles of anonymity and decentralization, introducing identity-based security measures might be faced with high resistance. However, Know Your Customer (KYC) compliance laws will soon apply to many forms of cryptocurrency services, particularly exchanges and wallet services that include the use of fiat currencies.
+With the regulatory environment gaining momentum, it is recommended that cryptocurrency and blocktech companies implement identity verification as soon as possible to minimize the friction that will occur as a result of the transition.
+Keep your eyes on our blog and social channels for more news in identity verification and fraud prevention tips.
+Sarah Hamid
+Senior Copywriter
+Sarah helps people find the right match between words and ideas. As a copywriter and editor, she is responsible for unifying Veriff’s tone of voice across all channels.
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to Reports
+Reports
+The Veriff Mobility Fraud Report - January to June 2020
+In our third fraud report, we take a look at the impact of online and identity fraud on the world of mobility in 2020, and the most prevalent types of fraud seen by Veriff, with data gathered from our verification flows.
+Reports
+The Veriff Fintech Fraud Report - January to June 2020
+In our second fraud report, we take a look at the impact of financial crime and fraud on the world of fintech in 2020, and the most prevalent types of fraud seen by Veriff, with data gathered from our verification flows.
+Reports
+The Veriff Crypto Fraud Report - January to June 2020
+We looked at the impact of financial crime and fraud on crypto in 2020, and the most prevalent types of fraud seen by Veriff, with data gathered from our verification flows.
+Back to Reports
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/press
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Product
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Resources and Blog
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Press resources
+We’re changing the world
+Here you'll find our press releases, logos, product visuals, info about our founders, and the full Veriff story. For press inquiries please contact us at
+
+press@veriff.com
+Get press kit
+Verifying identities all over the world
+Founded in 2015, Veriff serves a global portfolio of internet businesses including fintech companies, sharing economy providers and marketplaces in London, New York, San Francisco, Berlin, Vienna, and other major cities. Veriff is an alumnus of the startup accelerator Y Combinator and has offices in Tallinn, Estonia and New York, USA.
+$23.8m
+Funding
+230+
+Employees
+190+
+Countries supported
+Built for billions
+Veriff handles millions of verifications a year and has the potential to establish the infrastructure for trust in a growing digital economy. We are here to help honest people be trusted and to eventually create a single digital identity for every connected person on Earth.
+To help us achieve this ambitious vision, the people of Veriff are expected to make decisions independently and take responsibility and ownership over what they create. Want to learn more about the people and history of Veriff?
+
+Check out our story here.
+Download press kit
+Here you'll find our press releases, logos, product visuals, info about our founders, and the full Veriff story.
+Get press kit
+Want to learn more?
+Our blog is packed with insights from the people who make verifying millions of identities a year possible.
+Go to blog
+News
+Veriff5 - An interview with Kaarel and Janer about 5 years in Veriff
+It's Veriff's Birthday week! So we spoke to our CEO and COO about how they met, their first five years in Veriff, and what they see in their future.
+Resources
+Six Of The Hottest Cryptocurrencies Out There Right Now
+We take a look at six of the most prominent and promising cryptocurrencies on the market, and assess why they're so popular along with looking at their recent value.
+Case studies
+Uphold Will Soon Be "Part Of Your Daily Life" With Help From Veriff
+We spoke with Chris Adjei-Ampofo, Uphold’s CIO, about the relationship between the two companies, how Uphold tackles the challenges that fraud presents, and how Veriff have performed so far.
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.commailto:info@veriff.com
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Product
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Resources and Blog
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Don't keep honest customers waiting
+Identity verification done in seconds
+Schedule a demo
+► Learn more
+New Feature!
+We now provide
+category extraction for driver's licenses
+, making verification even better!
+Learn more
+New Feature!
+Beyond face-to-face verification
+Accurate, global, and easy on your customers
+95%
+Verified on the first try
+Features like Assisted Image Capture and an optimized verification flow maximize your conversion rates.
+Learn more about our product >
+8,000+
+GOVERNMENT-ISSUED ID's
+Veriff supports a growing list of identity documents, covering over 190 countries across the globe.
+See all supported IDs >
+36
+LANGUAGES SUPPORTED
+Our localization team is dedicated to giving you the reach you need and is open to adding languages on demand.
+See list of languages >
+Identity verification that makes onboarding easy
+Security that helps your conversion rates
+Veriff collects more data points than any other identity verification provider. While your users submit their verification data, machine learning technology is used to collect additional technical inputs without adding any extra steps.
+Test verification flow
+► See how it works
+Learning from every verification
+Striving for speed and accuracy
+With the power of maching learning, and AI-driven automation, Veriff is consistently ahead of digital fraud. Using Assisted Image Capture, we help users get verified on the first try, and each verification provides more data for our machine learning technology to continue evolving. This means quicker and more accurate decisions.
+Get pass rates up to 95%
+Verify 8,000+ government-issued ID's
+Configure according to your needs
+Assisted Image Capture
+In-house verification specialists
+See all features
+See pricing
+We're certified
+Veriff is compliant with CCPA, GDPR, SOC2 type II, and WCAG Accessibility Guidelines
+As featured in
+Press resources >
+Want to learn more?
+Our blog is packed with insights from the people who make verifying millions of identities a year possible.
+Go to blog
+Case studies
+Like No Bank You’ve Seen Before - Rebellion redefine banking from Spain with help from Veriff
+Rebellion is an exciting Spanish fintech, offering banking services to the digital generation. They've been partnered with Veriff for IDV since 2019, and we asked all about their experiences of our partnership so far.
+Case studies
+Uphold Will Soon Be "Part Of Your Daily Life" With Help From Veriff
+We spoke with Chris Adjei-Ampofo, Uphold’s CIO, about the relationship between the two companies, how Uphold tackles the challenges that fraud presents, and how Veriff have performed so far.
+Case studies
+goUrban are making their mark on mobility with the help of Veriff
+We check in with goUrban, after two years as partners of Veriff, to see how they’ve been progressing since 2018 and get their view on Veriff so far.
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/case-studies/interview-with-uphold-cio
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+Case studies
+Uphold Will Soon Be "Part Of Your Daily Life" With Help From Veriff
+We spoke with Chris Adjei-Ampofo, Uphold’s CIO, about the relationship between the two companies, how Uphold tackles the challenges that fraud presents, and how Veriff have performed so far.
+Patrick Johnson
+,
+
+October 16th, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+Veriff partnered with
+Uphold
+in December last year and have enjoyed an exciting partnership so far, with Uphold welcoming huge numbers of customers in the early days as they ran enticing promotions to help grow their excellent cryptocurrency platform.
+We recently spoke with Chris Adjei-Ampofo, Uphold’s Chief Information Officer, about the relationship between the two companies, how Uphold tackles the challenges that fraud prevents, and how Veriff have performed so far.
+As the Chief Information Officer, how involved are you with Veriff, and were you involved in the decision to partner with us?
+Previously before becoming a CIO, I was also Chief Information Security Officer, responsible for the Security team. Now, in my new role, I have Information Security reporting to me, along with Fraud. My involvement with regards to Veriff is that I’m also Head of Procurement, and I’m the the main point of contact between Uphold and Veriff. I was responsible for the contracting, negotiations, involved in the proof of value that we did and assisted the migration into production. I now have regular meetings with Veriff and if there are any daily concerns or issues, they come to me.
+In your own words - what does Uphold do?
+We’re a cryptocurrency exchange, predominantly, but we’re also trying to diversify. It’s not just a way to trade crypto, you can actually buy other assets on our platform as well - you could buy precious metals, fractional equity, shares in Tesla, Coca-Cola, and Microsoft using portions of your crypto assets to fund the purchase of those assets. We’ve also launched our own debit card, so you can add or use your crypto as a method of day-to-day living, meaning you can go and buy a coffee, do your daily shopping, or order online, all with crypocurrency.
+How big is your team, how many employees do you have?
+About 200, globally.
+How many deal with identity verification or compliance?
+We have our compliance team and our fraud team - in compliance we have 10 full-time people and in fraud, it’s about 3. But we use an external outsourced agency to help us with daily monitoring of fraud and compliance.
+And how many customers do you currently have?
+About 2 million.
+How were you handling identity verification prior to Veriff?
+We were using a competitor of Veriff. We had serious problems with the quality of the verifications and quality of their solution. Before choosing Veriff, and as a part of proof of value, we did an A/B test - half of our customers were going through this competitor and half through Veriff. Afterwards when we ran an analysis to compare how many false-positives we were getting between the two solutions and Veriff was so much better than the competitor. We then switched to Veriff and we discontinued the service with the competitor.
+Has the quality of verifications improved with Veriff and if so, how?
+It’s improved a lot. It weeds out a lot of the fraud, but obviously it can be improved. It’s a lot better than where we were.
+What is the problem Veriff is actually solving for you, why do you need to use online verification?
+For onboarding - we want to know who our customers are. It’s a compliance requirement, as well as preventing fraud. We’re a global company, so as the company is growing, we’re attracting a lot of attention, and we need an online ID solution that would protect us and our customers.
+But other than using Veriff, what else are you doing to solve this fraud issue?
+We have other tools in place that allow us to detect fraudulent activity, based on the individual profile, the behaviour, the location they’re coming from - and that allows us to build a profile, before they go to Veriff. We have checks at the front door, and once these clear out any potential bad actors, then we put them through IDV.
+What do you think has been the biggest value of Veriff so far?
+The KYC and compliance, where we’re removing a lot of the bad actors and stolen IDs. Also one of the things we recently implemented, velocity abuse, where when someone has stolen loads of IDs and they’re trying to sign up, Veriff helps us detect where they’re coming from and recognizes the repeat use of a device. The benefits of the combination of these tools allows us to reduce the fraud rate and meet our compliance regulations as well.
+What would be the main expectation for Veriff's product?
+The accuracy of the information that people provide. The live video detection that we have is a key component of the solution that we use. One of the main things that we’ve been experiencing is social engineering, where genuine people who are not so literate with computers have been defrauded. They have a fraudster at the other end of the phone, telling them to sign up with Uphold, and they’ve never heard of Uphold, but they’ve been enticed to sign up. When those individuals realize that they’ve been defrauded, they’ll claim a chargeback with their financial institutions and we take the hit. But what Veriff has allowed us to do, is the ability to engage with defrauded customers and actually show them we have video evidence of them going through the IDV process. This has proven to be a very powerful tool to help us combat friendly fraud. We have a number of ongoing legal cases in the US where we have been able to provide the evidence that Veriff has given us as a part of the proceedings. This has been a key contributor to the success of these proceedings.
+What about the main expectations on the service and the business operations side?
+We’ve been always looking for a strategic partner, a partner who would grow together with us and who would understand the challenges we’re facing. A partner who is in regular contact with us and offering new solutions on how we could combat this fraud and Veriff has been great in doing that. That’s something that has been really key in the relationship. You are very forthcoming when new updates or features are being released - you want to get us onboard.
+You’ve also customized Veriff’s flow, but have there been any other requests to the product that we didn’t have before?
+One of the challenges that we had is that we needed to - as a part of our business onboarding process - identify business owners themselves. When a business owner has got a /--/ ownership, we need to send them a link for them to verify themselves. And we didn’t want them to go through the selfie process, just upload a document for it to be verified, so Veriff built us a custom flow to allow us to do that. This helped a lot with the business onboarding.
+Have there been any measurable improvements since starting out with Veriff? For example conversion or maybe faster onboarding?
+Definitely, our verification success rate in the January after joining Veriff was at 78%, and that’s now grown to 87% in September (last month). In terms of growth of our verification volumes, the quarter-to-quarter growth has also increased - by 71% from Q1 to Q2, and a further 33% from Q2 to Q3. In total, 81% growth from the beginning of the year to now in terms of quarterly numbers.
+We also constantly keep an eye on the false positives and their ratios, as this a crucial metric, but not something we can publicise.
+Since hiring Veriff, have you reduced any workload in your in-house teams as well? In support or compliance for example?
+The workload has decreased because we don’t have a lot of manual checks that we’re doing at the moment. But again, that’s still a work in progress because there are things that we could do to improve it. We’re probably speaking with Veriff about the margin of error. We’re looking to see how we can improve that as well.
+What do you actually think, what’s behind your quite big success this year?
+It’s a combination of stuff. We completely rebuilt our UI and the whole user experience, the platform, the mobile app. It’s a lot easier to use. The assets that we are offering, and also some of the new products that we are offering - the debit card, fractional equities. And I guess it’s also the right time for crypto, crypto has been doing well and we have benefitted from that.
+Now you’ve diversified your business and improved the user experience, what are the key metrics you’re looking at?
+We look at the number of users, but we can have a lot of people registering, then not actually converting. We look at the people who are transacting, and we’re looking at people who are depositing. Those are the metrics that we look at - the conversion ratio from just signing up to actually transacting. Also, the size of the transactions, they are also quite a key element.
+What is the main target market you’re after now?
+Europe. We’re quite big in the US and North America, Venezuela as well. But we need to start targeting Europe. And we’re also looking at Africa, that’s an area that we’re not so good in yet.
+What are your long-term business goals? How could you grow together with Veriff?
+Our long-term vision is that we want to be a bank. You can see this in the assets that we’re already providing and our move to be a part of your day-to-day life where you can use Uphold as part of your day-to-day transactions. We want to move away from people buying crypto and leaving it to go up or down or whatever. It should be a part of your daily life - that’s what we’re trying to do.
+What kind of advice would you give to a business in your industry who is looking for an IDV solution?
+Don’t just go for the technology itself. Look for a partner that is going to work closely together with you and grow with you. And a partner who is quite flexible and reactive to solve the challenges that you face. You know, where they can help you improve and assist in your fight against fraud. It’s very easy to buy the state-of-the-art technology, but without the support and relation behind, it just becomes a big monster and you’re only going to be using 10-15% of the ability of that product, if you don’t know how to optimize it. That’s where the key of the partnership comes into play.
+Seems like you’ve given this advice before!
+Yeah, I put on my procurement hat. It’s very easy for people to invest in technology and not really look at the whole partnership.
+One last question, and I’m very honestly asking your opinion - don’t sugarcoat it. How would you describe the partnership with Veriff to a colleague or a friend?
+Oh I always refer to Veriff as, and I’m being completely open, my favourite vendor. Because we have a good relationship with Veriff. Internally we appreciate the relationship we have and we have a relationship where we can be completely open. If we’re unhappy with something, we’ll tell you - from the price to the service, and how you can make it better. And that’s great. And it’s great that Veriff takes that feedback and sees how you can improve it. A lot of other vendors would say “Nah, take it or leave it”, but that hasn’t been the case with Veriff. We both appreciate the mutual benefits.
+Patrick Johnson
+Copywriter
+Patrick takes care of the voice of Veriff - coordinating the copy throughout our brand and product and making sure we're constantly delivering engaging and excellent content.
+Interested in becoming Veriff's next partner?
+Talk to us today
+Have a chat with Veriff's team to learn how using our verification flow could help you prevent fraud and increase conversion and sign-ups!
+Contact Sales
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to Case studies
+Resources
+A Geeks’ Guide to Cryptocurrency
+Before we can really appreciate the advantages of cryptocurrency (or crypto for short), we need to understand exactly how it works. Here’s our brief overview of what cryptocurrency is, the main players and how the platform it runs on makes it so secure.
+Resources
+Why Crypto is Ready for Identity Verification
+Bitcoin, Litecoin, Etherium - just three of an estimated 6,088 cryptocurrencies according to CoinMarketCap in August 2020, with a $337.28 billion market cap. Crypto is big business and companies trading over the internet want in. But, as crypto grows, so does the need for regulation and protection against fraud.
+Case studies
+goUrban are making their mark on mobility with the help of Veriff
+We check in with goUrban, after two years as partners of Veriff, to see how they’ve been progressing since 2018 and get their view on Veriff so far.
+Back to Case studies
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/resources/a-geeks-guide-to-cryptocurrency
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+Resources
+A Geeks’ Guide to Cryptocurrency
+Before we can really appreciate the advantages of cryptocurrency (or crypto for short), we need to understand exactly how it works. Here’s our brief overview of what cryptocurrency is, the main players and how the platform it runs on makes it so secure.
+Daniel Coll
+,
+
+October 5th, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+Join us on a dive into what a cryptocurrency is, why they're so secure, a look at Bitcoin & The Blockchain (good band name) and the potential future of crypto as an industry.
+What is a cryptocurrency?
+A cryptocurrency is a digital currency that is digitally secure, hosted by a massive peer-to-peer network and galvanised by an electronic security system. There are thousands of cryptocurrencies, and anyone can launch their own. However, the more stable players are
+Bitcoin
+,
+Ethereum
+and
+Litecoin
+, with a host of others gaining traction more recently.
+In a practical and democratic sense, giving the individual ownership and creating a network of mutual trust is a major plus-point for cryptocurrency. Cryptocurrencies typically have a finite amount available, bolstering their value and stability. As well as using crypto to pay for good and services, users can receive it as salary or other regular payments.
+Cryptocurrency needs to be mined from across the web, meaning that hidden data - that is essentially a currency’s DNA - needs to be meticulously sought out, which takes massive amounts of computing power and therefore is not an option for most individuals.
+Bitcoin in brief
+Bitcoin is founded on mutual trust and runs on highly secure Blockchain technology. It’s a self-fulfilling, endless concept that enables the individual user to become a part of an ownership network.
+It was a game-changer gaining many early adopters, with many becoming Bitcoin millionaires - some literally overnight - when the currency soared in value at the end of 2017. It is a super-secure currency, if a little volatile by Fiat (traditional currencies) standards, but it is technically more secure that any traditional currency, with its roots in the digital fortress that is the Blockchain.
+The Blockchain
+As its name suggests, the Blockchain is a chain of blocks each containing encrypted information, all held on a digitally secure platform. It works using timestamps, the brainchild of a group of researchers in the early nineties, designed as an application to timestamp their digital documents to avoid tampering.
+The system stayed irrelevant and unheard of for many years, before the team (or lone developer) using the pseudonym
+Satoshi Nakamoto
+adapted it for Bitcoin, and the world’s first cryptocurrency was born.
+The Blockchain acts as a distributed ledger for cryptocurrencies, unlike its original role as digital notary for the researchers. Open to all, its security comes from the simple fact that once information is recorded into a ‘block’ it is virtually impossible to change without leaving a record of such.
+Each block in the chain consists of three main components. These are the data itself, the hash, and the hash of the previous block; together they create the chain. The data that gets stored on the chain will depend completely upon the exact function of the chain, so if it’s a cryptocurrency the block’s data may be transaction data, such as sender and receiver, along with the amount sent and the time of the transaction, etc.
+The hash that is associated with each block of data is unique, non-replicable and can be compared to a fingerprint; it’s an electronic ID that identifies the block and its data. The hash is calculated on the creation of a block and its data, any changes made to said data will inevitably change the hash, thus making the tracking of changes easy and rendering anonymous tampering impossible.
+What makes Blockchain and cryptocurrency so secure?
+Blockchain’s infamous security comes from that third element, the inclusion of the previous block’s hash in every newly created block. Tamper with a block and its hash will change, invalidating all subsequent blocks. This happens because they will no longer have a valid hash from each previous block.
+As a safeguard against tampering, Blockchains use a concept known as ‘proof of work’ which slows the creation of new blocks, as hashes on their own are not totally guaranteed to be tamper-free. The process usually takes around ten minutes and is extremely effective in preventing tampering, as to make any changes to one block will also require the proof of work in all previous blocks to be changed, an impossible task that ensures a secure network. It’s this network that’s the key.
+The peer-to-peer nature of the Blockchain network requires all other users to accept any new blocks that are created, so any discrepancies will mean a new block is immediately rejected by the network. Therefore, a tampered block and the proofs of work from this and all previous blocks will need accurately changing, with each and every proof of work recreated and all matched in order to be accepted by at least 50% of the network in order to gain active control – simply not possible.
+The future for cryptocurrency
+Today’s cryptocurrencies still have a few hurdles to overcome. The biggest of these being the perceived vulnerability of a crypto balance. One computer crash or targeted hack can indeed be the end of a fortune, but these risks are reducing all the time as technology advances and third-party verification partners like
+Veriff
+get on board.
+Inevitably as crypto gains popularity so does governmental scrutiny and regulation. However, for merchants and customers wishing to use digital currencies, regulation is welcome if it raises consumer confidence in crypto. At present their complexity and relative niche appeal keeps them out of the mainstream, but as tools like Veriff can take the risk factor away by giving merchants peace of mind in relation to knowing the vital details and trustworthiness of the individual user, there seems no reason why the super-secure structure of the Blockchain itself can’t adequately handle the rest.
+Daniel Coll
+Freelance journalist
+British brand journalist and educator living and working in Tallinn, Estonia. Specialising in technology and startup stories, wellbeing and educational topics, life in Estonia and Estonian culture. A member of the Chartered Institute of Journalists and the Royal Photographic Society.
+Need excellent identity verification for your cryptocurrency?
+Let Veriff help you with that!
+Get identity verification which prevents fraud, guarantees compliance, increases conversion and ensures you always know your customers.
+Learn more
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to Resources
+Resources
+Why Crypto is Ready for Identity Verification
+Bitcoin, Litecoin, Etherium - just three of an estimated 6,088 cryptocurrencies according to CoinMarketCap in August 2020, with a $337.28 billion market cap. Crypto is big business and companies trading over the internet want in. But, as crypto grows, so does the need for regulation and protection against fraud.
+Resources
+Do you know your customers? Well, you should!
+KYC stands for 'Know Your Customer'. Financial institutions are legally obliged to comply with KYC procedures to identify customers, the potential risks they might pose and to gather knowledge of their financial activities.
+Resources
+7 Trends in Online Fraud Right Now
+Online crime is growing - fast. We look at what are the growing trends around the world, pushing technology to keep evolving and fighting the good fight.
+Back to Resources
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/recruitment-privacy-policy
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Product
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Resources and Blog
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Recruitment privacy policy
+1. General
+2. Personal Data we process during the recruitment process and employment
+3. The purpose and legal ground for processing during the recruitment process
+4. Availability of, and changes to, the Policy
+Recruitment privacy policy
+Valid from:
+Please read about your rights and the main privacy principles that every employee is to follow from the
+Privacy Policy
+. Here you can find processing specifics in case of recruitment.
+The specific information on how we handle your Personal Data when you are an employee, will be made available to you when you enter into a contract with Veriff.
+Please review this policy carefully and contact us and our data protection officer at
+legal@veriff.com
+if you have any comments, questions or concerns.
+1. General
+Here you can find when the Policy is applicable.
+1.1 Terms have the same meaning in this Policy as in the
+Privacy Policy
+, unless otherwise provided here.
+1.2 This Policy is for (potential) employees, i.e. candidates, and gives an overview of how Veriff processes candidates' Personal Data for our recruitment process.
+1.3 Additional information may be provided under listed job offers or during the recruitment process, in which case those Processing rules are either complimentary to this Policy or prevail this Policy.
+2. Personal Data we process during the recruitment process and employment
+Here You can find what Personal Data we gather about you.
+2.1
+When is your data processed.
+As an employee, we fully inform you of the processing activities taken by Veriff. We instruct you and provide you with sufficient training on how to process information related to Data Subjects. We are constantly hiring new talents and thus encourage as many talents as possible to enter into our recruitment process. During the recruitment process we process the Personal Data of candidates we contact with possible job offers as well as the candidates who apply themselves.
+2.2
+Content of Processed Personal Data.
+We may collect and process, among other information, the following Personal Data:
+(1) identification data, such as name, date of birth, picture, personal identification code, legal capacity, nationality, citizenship, IP address and identification document details such as number, name, issuing country, security features, expiration dates and copies;
+(2) contact and communication data, such as address, phone number, email address, messages sent to us or to you by us;
+(3) current and previous employment data, such as data about your current and previous employee, position within the company, etc.;
+(4) data related to your candidacy, such as CV, motivation letter, job preferences, recommenders, (video) interviews, results of your tests and analyses, etc.;
+(5) publicly available relevant data, e.g. checks in public sanctions lists, checks in relevant public records for verification of given data, public social media accounts, etc. As our Service requires a high level of trust, we ask candidates to give us information about, or provide us access rights to, their criminal records (only valid information, meaning archived criminal registry information is not requested).
+2.3
+From where we may gather Personal Data.
+We usually obtain Personal data directly from you when you apply for a position with us or when we contact you with a possible job offer. In addition, we collect your Personal Data independently through different channels (e.g. via social media profiles, online job sites). We may also collect your Personal Data from third parties, such as professional recruiting firms, your references, prior employers and employment background check providers, to the extent this is permitted by applicable law. Additionally, we may share your Personal Data with professional recruiting firms that we have entered into agreements with, in order to assist us in the recruitment process (for the conditions of such sharing, see the
+Privacy Policy
+Chapter 8). During the recruiting process we may ask for the submission of different information that enables us to assess your suitability for the relevant position. You are not required to provide any of the requested information to us, but kindly note that failing to do so may result in you not being able to continue your candidacy for the position.
+2.4
+Please note, we do not seek to obtain special categories of Personal Data,
+such as data concerning your ethnicity, health, philosophical beliefs, sexual orientation, etc.
+2.5
+Retention period.
+We store the data of job applicants (candidates) during the recruitment process and for two additional years after the recruitment process to record your recruiting activity with us and be able to inform you of new vacancies within that timeframe. Please note, that if you enter into an employment (or similar) contract with us, different retention periods apply.
+3. The purpose and legal ground for processing during the recruitment process
+Here you can find why and under what legal grounds we process your Personal Data.
+3.1 We Process your Personal Data as a Data Controller on the following grounds: under legitimate interest for recruitment and management purposes (purposes no.(1) up to (3) and (7) to (8)), for preparing and performance of the contract (purpose no.(4)), for compliance with our legal obligation (purpose no.(6)), and on the basis of consent (purpose no.(5)). If a candidate is not selected, we shall store the Personal Data collected for entry into an employment contract for two years in order to make a job offer to the candidate in the case a suitable position becomes vacant. The purposes of Processing are as follows:
+(1) to determine candidates’ suitability for the available position;
+(2) to verify the data submitted by the candidate (including carrying out reference checks and/or conducting background checks where applicable);
+(3) to manage the recruitment process and keep the candidate updated about the progress of the process;
+(4) in the case of a successful application, to prepare a job offer and employment contract, and to fulfil the onboarding activities;
+(5) to inform the candidate about our vacant positions;
+(6) to protect our rights and fulfil our legal obligations;
+(7) for business management and administrative purposes, such as record-keeping and improving our recruitment and business practices;
+(8) to store the information in order to make a job offer in the case of a suitable position in the future.
+4. Availability of, and changes to, the Policy
+Here you can find information about changes made to the Policy.
+4.1 This Privacy Policy is available on our Website.
+4.2 Kindly note that we may modify the Policy from time to time. The modified policy will be uploaded to our webpage.
+4.3 You are advised to review this Policy periodically for any changes.
+4.4 Changes to this Policy are effective when they are posted on this page.
+Last update: 30.07.2020
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/pricing
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Product
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Resources and Blog
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Find a plan that fits
+All prices are VAT exclusive.
+You will be taxed according to where your company is registered. Tax rates differ between countries and are subject to change.
+Standard
+Enterprise
+Standard
+Sign up and get started in less than a day with our standard self-service plans.
+Up to
+70
+verifications per month
+Starting from
+$229
+/month
+$3.19
+
+per additional verification
+Start free trial
+Enterprise
+Get a fully customized verification service with the help of our product experts.
+From 1000+
+verifications per month
+Pay for the features you need
+Customized to your company’s needs
+Contact sales
+Top features
+100 free verifications during trial
+14 days of free integration support
+You can set it up on your own - ideal for startups and SMEs
+Premium account management
+Advanced configurability
+Ideal for large verification volumes and unique use cases
+Verification flow
+36+ supported languages
+8,000+ government-issued ID's covered
+Add or remove steps for your users
+- Selfie
+- ID photo(s)
+- Selfie with ID
+Background video
+Assisted image capture
+API, JS, and SDK integration
+User flow customization
+User flow white labeling
+Verification engine
+Network and device analytics
+Automated data extraction (Basic five fields)
+- First name
+- Last name
+- Date of birth
+- Document number
+- Expiry date
+Automated data extraction (All fields)
+Biometric analysis
+Fully automated ID checks
+Liveness checks
+PEP and sanctions checks
+Optional
+Verification platform
+Test integration option
+Team roles
+Webhook configuration
+Support
+Knowledgebase access
+Integration support
+14 days of free integration support
+Full integration support
+Account management
+No
+Premium account management
+Struggling to pick a plan?
+Tell us how many monthly verifications you need
+If you expect over 1,000 verifications per month,
+get in touch with our team
+and we’ll create a customized enterprise plan for you.
+Standard
+plan
+Up to
+70
+verifications a month
+Start free trial
+70
+Monthly verifications
+Price
+$
+229
+/month
+$3.19
+per additional verification
+All prices are VAT exclusive.
+You will be taxed according where your company is registered. Tax rates differ between countries, and are subject to change.
+Start free trial
+Want to learn more?
+Our blog is packed with insights from the people who make verifying millions of identities a year possible.
+Go to blog
+News
+Veriff5 - An interview with Kaarel and Janer about 5 years in Veriff
+It's Veriff's Birthday week! So we spoke to our CEO and COO about how they met, their first five years in Veriff, and what they see in their future.
+Resources
+Six Of The Hottest Cryptocurrencies Out There Right Now
+We take a look at six of the most prominent and promising cryptocurrencies on the market, and assess why they're so popular along with looking at their recent value.
+Case studies
+Uphold Will Soon Be "Part Of Your Daily Life" With Help From Veriff
+We spoke with Chris Adjei-Ampofo, Uphold’s CIO, about the relationship between the two companies, how Uphold tackles the challenges that fraud presents, and how Veriff have performed so far.
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com#standard
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Product
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Resources and Blog
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Developers
+Support
+Reports
+Case studies
+News and Blog
+Log in
+Start Free trial
+Don't keep honest customers waiting
+Identity verification done in seconds
+Schedule a demo
+► Learn more
+New Feature!
+We now provide
+category extraction for driver's licenses
+, making verification even better!
+Learn more
+New Feature!
+Beyond face-to-face verification
+Accurate, global, and easy on your customers
+95%
+Verified on the first try
+Features like Assisted Image Capture and an optimized verification flow maximize your conversion rates.
+Learn more about our product >
+8,000+
+GOVERNMENT-ISSUED ID's
+Veriff supports a growing list of identity documents, covering over 190 countries across the globe.
+See all supported IDs >
+36
+LANGUAGES SUPPORTED
+Our localization team is dedicated to giving you the reach you need and is open to adding languages on demand.
+See list of languages >
+Identity verification that makes onboarding easy
+Security that helps your conversion rates
+Veriff collects more data points than any other identity verification provider. While your users submit their verification data, machine learning technology is used to collect additional technical inputs without adding any extra steps.
+Test verification flow
+► See how it works
+Learning from every verification
+Striving for speed and accuracy
+With the power of maching learning, and AI-driven automation, Veriff is consistently ahead of digital fraud. Using Assisted Image Capture, we help users get verified on the first try, and each verification provides more data for our machine learning technology to continue evolving. This means quicker and more accurate decisions.
+Get pass rates up to 95%
+Verify 8,000+ government-issued ID's
+Configure according to your needs
+Assisted Image Capture
+In-house verification specialists
+See all features
+See pricing
+We're certified
+Veriff is compliant with CCPA, GDPR, SOC2 type II, and WCAG Accessibility Guidelines
+As featured in
+Press resources >
+Want to learn more?
+Our blog is packed with insights from the people who make verifying millions of identities a year possible.
+Go to blog
+Case studies
+Like No Bank You’ve Seen Before - Rebellion redefine banking from Spain with help from Veriff
+Rebellion is an exciting Spanish fintech, offering banking services to the digital generation. They've been partnered with Veriff for IDV since 2019, and we asked all about their experiences of our partnership so far.
+Case studies
+Uphold Will Soon Be "Part Of Your Daily Life" With Help From Veriff
+We spoke with Chris Adjei-Ampofo, Uphold’s CIO, about the relationship between the two companies, how Uphold tackles the challenges that fraud presents, and how Veriff have performed so far.
+Case studies
+goUrban are making their mark on mobility with the help of Veriff
+We check in with goUrban, after two years as partners of Veriff, to see how they’ve been progressing since 2018 and get their view on Veriff so far.
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/news/veriff-launches-category-extraction-as-a-new-product
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+News
+Veriff launches category extraction as a new product feature
+Veriff launches a new product feature that enables companies to extract category information from a driving licence. During the verification process, Veriff can determine whether the person has a legitimate right to drive a certain category vehicle, in most cases a B-category one.
+Karita Sall
+,
+
+November 3rd, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+The new feature helps Veriff’s mobility sector clients who provide different ride-sharing services like car- or moped-sharing or rental and need to check whether the person using the service has a valid driving license in the right category.
+According to Janer Gorohhov, the co-founder and COO of Veriff, the new feature was built in just over one month. “We kicked the pilot off with our Vienna-based client
+goUrban
+, which provides a software platform and data analytics to shared mobility operators. The category extraction enables the mobility sector to make sure that the person presenting the driving license is eligible to drive the vehicle. The idea is to make the verification process even more accurate and seamless and enable partners like goUrban to build up trust with their customers,” Gorohhov added.
+“On top of the strong time-saving automation component, we consider Veriff’s category extraction feature a game changer, as it fully enables the car-sharing use case. In particular, fraud and damages are an increasing concern in the mobility industry - so of course high cost assets such as a car, or a luxury car for that matter, need to be safeguarded: precise license identification strongly contributes to this,” said Nicholas Kirk, the Head of Business Development at goUrban.
+The category extraction gives an accurate insight to Veriff clients' about who their customers are and whether they are legally entitled to use the requested mobility service. With the help of artificial intelligence, Veriff reads the driving license data regarding the driving category that the person has.
+Veriff is now supporting close to 9,000 different documents from all over the world. “The more document types we can process, the better our service becomes and we can improve the speed of verification decisions, saving people time as they are going through the process,” added Gorohhov.
+Currently Veriff is focusing on the driving licence standard of the Vienna Convention on Road Traffic from 1968. This standard is used in the European Union and some other countries. However, Veriff is working to expand the extraction feature capabilities and add more licence standards to build new use cases.
+About goUrban
+goUrban is the operating system for mobility of the present and future. Operators can now manage car, scooter, moped sharing systems and more, focusing directly on operations, optimising units and cutting irrelevant costs. Leveraging its very own experience as an operator in Vienna, goUrban has proven to be a revenue multiplier across three continents thanks to the cloud-based software with a dashboard for monitoring operations, a user app for travel access and a service app for maintenance staff. The platform runs services worldwide with thousands of users riding daily. For many of these, a first prerequisite to rent a vehicle is driving license verification.
+Karita Sall
+Head of Global Communication
+Karita Sall is the Head of Global Communication at Veriff. Karita has been working in the field of communication for over 20 years. During that time she has helped many organizations to tell their stories including start-ups, global corporations, government bodies as well as non-profits.
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to News
+News
+I actually wouldn’t recommend this for any sane person
+Joonatan Samuel is without doubt one of Veriff's brightest and most exciting young minds. We talk to him about his time in the company so far, the experiences he's gained during his career, and his love of running (even in winter!).
+News
+Kaarel Kotkas talks to SafetyDetectives
+Our CEO, Kaarel Kotkas, was interviewed by SafetyDetectives.com, so we took the opportunity to share his interview right here. Enjoy!
+News
+Indrek Heinloo joins Veriff as our new Chief Operations Officer
+Veriff is excited to announce the arrival of Indrek Heinloo as our new COO. We caught up with him about his career so far, and his immediate plans in Veriff.
+Back to News
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/news/kaarel-kotkas-talks-to-safetydetectives
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+News
+Kaarel Kotkas talks to SafetyDetectives
+Our CEO, Kaarel Kotkas, was interviewed by
+SafetyDetectives.com
+, so we took the opportunity to share his interview right here. Enjoy!
+Aviva Zacks, SafetyDetectives
+,
+
+December 1st, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+Kaarel Kotkas, CEO of Veriff, met with Aviva Zacks of Safety Detectives for an interview about his cybersecurity journey and how it got started with
+some blue twine
+. You can see the
+original interview
+on the Safety Detectives website.
+Safety Detective: What got you interested in cybersecurity and what do you love about it?
+Kaarel Kotkas:
+People usually get curious about something when they are pushed to tackle a particular problem. My story is no different. My interest in cybersecurity was triggered more than a decade ago, however, more by accident than intentionally. I grew up on a beef farm in Hiiumaa, a small island in the Baltic Sea. My job was to collect the blue twine that was used to tie up the hay bales. I was not really excited about this job and started looking for biodegradable twine so that I would no longer need to collect the twine. So I searched the internet for biodegradable twine, found an online store, and tried to buy it. I sent a copy of my ID to the online store but my order was declined because I was underage, 14 at that time. Without thinking twice, I photoshopped the date of my birth from 1994 to 1984, sent it off once again and it worked—the biodegradable twine was shipped to Hiiumaa to our farm. This was the first time I experienced how low the barriers to online identification were and how easily the system can be tricked.
+Several years later as I was graduating from high school, I was also conducting a case study for TransferWise. My task was to test their security systems by using a false ID. This task really got me excited about the world of secure identity verification.  So, I spent the whole summer writing code trying to solve the issue.
+I founded
+Veriff
+with the belief that online identity verification can be more secure than physical face to face verification. First, developed technology that enabled Estonian e-residents to open bank accounts without physically visiting the country. Then we moved into banking to help Baltic banks meet compliance and KYC requirements. Our technology made sure that the person taking the credit really is who they claim to be. That’s shortly how my journey in cybersecurity started.
+SD: What do you love about it?
+KK:
+I am excited about where we are heading. Veriff is building infrastructure for trust, we allow any website and mobile application to match a person with their government-issued ID. In the physical world, when you go to the bank to apply for a loan and present somebody else’s passport instead of your own, it’s likely that you will be caught by the bank employee. Then you can only rely on your fast legs and run away not to be caught. In the online world, things get more complicated. It’s too easy to pretend to be someone and we face a problem, there is no trust online – it’s hard to know who or what is real.  But to establish trust, you need a secure way to prove a person’s identity. Once trust is established, more innovation and services can be accessible for everyone from anywhere.
+With the help of our technology, we can build reliable and scalable trust online. Our mission is to create a single global identity for everyone on Earth so people would have equal access to services regardless of where they come from. We will become a home for people’s identity online and with Veriff’s ID, people will have full control over where and why their data is being used.
+SD: What types of companies use your technology?
+KK:
+We have a diverse portfolio of global clients. It includes internet businesses, fintech companies, sharing economy providers, and marketplaces in the USA, Europe, and other places in the world.
+These are the industries that have strict regulations to meet the Know Your Customer (KYC) and other compliance requirements. In order to provide services, they need to make sure that the person using their service is actually who they claim to be. We serve many digital banking clients including Blockchain, Uphold, Mintos, Rebellionpay, Tfbank, TransferWise, Transfergo, and many others. In the mobility and ridesharing sector, our clients are Vienna-based goUrban, Berlin’s public transportation company BVG, Turo, and others. Geographically, our target markets are the EU, the UK, and the US. With that goal in mind, we want to be closer to our global clients and opened our first overseas office in New York, the USA last autumn.
+SD: Tell me about Veriff’s technology. How do you stay ahead of the competition?
+KK:
+Veriff’s verification engine is highly automated, accurate, and fast. Having verified millions of people across the globe, Veriff has become number one in document support in the world. With an ability to verify people from basically anywhere in the world – we service more than 190 countries and close to 9,000 government-issued IDs. This figure is twice the size of what our closest competitor can achieve. We support 36 different languages and 95 percent of identifications are made on the first try.
+Much of the competition focuses on human reviewers and picture matching. What sets Veriff apart is the variety and richness of collected data from each session. This information helps to improve Veriff’s machine learning decision engine.
+We cross-compare verification sessions based on device, network, and customer behavior, whereas our competition treats each verification session as the first. Instead of just matching two pictures, Veriff leverages device and network information, customer behavioral information in a video-first approach.
+We are also very transparent about the decisions behind the verification process. The identity verification technology is often referred to as  “black box technology” – there is not much transparency about why a person going through a verification flow is approved or declined. This is not the case with Veriff. Since our decision engine is highly automated, we can provide our clients with motivated answers and details about the final decision.
+SD: What is the worst cyber threat out there today?
+KK:
+That’s a tough one. As technology is evolving, we also see cyber fraud getting more sophisticated. I’d say deepfakes, where an image or video of a person is replaced with the likeness of someone else, have garnered widespread attention recently and a trend is emerging where they are increasing in prevalence. Techniques are being leveraged from machine learning and artificial intelligence, the result of which is high-quality audio and visual content that is very successful in deceiving people. It is being used by scammers as a way to bypass and overcome facial recognition or voice biometric protocols put in place by financial institutions and other organizations.
+Just like the team at Veriff, governments, organizations, and tech firms around the world are currently working round the clock to research ways to detect deepfakes and prevent them from being used fraudulently. And we need to constantly be a couple of steps ahead of the fraudsters.
+SD: How has the Covid-19 pandemic changed cybersecurity forever?
+KK:
+The pandemic has definitely accelerated digitalization, including the demand for secure identity verification. Societal changes that we thought would happen in 5 – 6 years, now occur in 1-2 years’ time. It’s an era of digital opportunism. With such a large number of transactions having been shifted online so quickly, companies have been disrupted at a scale not seen before. This means that the opportunities for fraudsters to take advantage of new—and potentially poorly designed—digital platforms have increased tenfold. In particular, the telecommunications, retail, and financial services industries have been especially affected. According to TransUnion, the percent of suspected fraudulent digital transactions rose 5% from March 11 to April 28 when compared to January 1 to March 10, 2020. In addition to this, more than 100 million risky transactions from March 11 to April 28 were identified. This situation is still unfolding but it is clear that the businesses that will survive this period of turbulence are the ones that will leverage the most advanced and robust fraud prevention tools.
+Aviva Zacks, SafetyDetectives
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to News
+News
+Veriff5 - An interview with Kaarel and Janer about 5 years in Veriff
+It's Veriff's Birthday week! So we spoke to our CEO and COO about how they met, their first five years in Veriff, and what they see in their future.
+News
+Kaarel Kotkas: My Teammates Would Describe Me as a Visionary
+On an October morning, Veriff founder Kaarel Kotkas was speaking with Veiko Valkiainen about leadership. What does it take to be a great leader and a successful entrepreneur? How do you reach your goals? Tune in to hear Kaarel's thoughts on leadership.
+News
+Kaarel Kotkas: Veriff's a Lighthouse in Identity Verification Sector
+Kaarel Kotkas, the founder and CEO of Veriff gave an interview to Baltic Startup Mafia podcast talking about how Veriff was started and where it is heading. Tune in!
+Back to News
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/news/veriffs-a-lighthouse-in-identity-verification-sector
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+News
+Kaarel Kotkas: Veriff's a Lighthouse in Identity Verification Sector
+Kaarel Kotkas, the founder and CEO of Veriff gave an interview to Baltic Startup Mafia podcast talking about how Veriff was started and where it is heading. Tune in!
+Karita Sall
+,
+
+August 17th, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+Only at the age 26, Kaarel has built a 230-people global company that recently closed 15,5 million USD financing round. Kaarel has never worked in big corporations and has always built projects and companies based on his own understanding and what he wants the company to be. Veriff is his 12th project: "I recommend everybody to start a business as early as possible because you will make a lot of mistakes. But when young and still living at home, you have got a roof above your head and breakfast, lunch and dinner at the table."
+Karita Sall
+Head of Global Communication
+Karita Sall is the Head of Global Communication at Veriff. Karita has been working in the field of communication for over 20 years. During that time she has helped many organizations to tell their stories including start-ups, global corporations, government bodies as well as non-profits.
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to News
+News
+I actually wouldn’t recommend this for any sane person
+Joonatan Samuel is without doubt one of Veriff's brightest and most exciting young minds. We talk to him about his time in the company so far, the experiences he's gained during his career, and his love of running (even in winter!).
+News
+Kaarel Kotkas talks to SafetyDetectives
+Our CEO, Kaarel Kotkas, was interviewed by SafetyDetectives.com, so we took the opportunity to share his interview right here. Enjoy!
+News
+Indrek Heinloo joins Veriff as our new Chief Operations Officer
+Veriff is excited to announce the arrival of Indrek Heinloo as our new COO. We caught up with him about his career so far, and his immediate plans in Veriff.
+Back to News
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/news/indrek-heinloo-joins-veriff-as-coo
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+News
+Indrek Heinloo joins Veriff as our new Chief Operations Officer
+Veriff welcomes it’s brand new COO, and chats to him about his career so far and what he’s looking forward to in his new role
+Patrick Johnson
+,
+
+November 30th, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+Veriff
+is this week thrilled to announce the arrival of Indrek Heinloo as our new Chief Operating Officer. Indrek joins us after 2 years with Estonian bank
+Luminor
+, and brings a wealth of incredible experience across different working cultures.
+Indrek’s roles with
+McKinsey
+and
+Jumia
+have seen him working in Cairo, Casablanca, Lagos, London, Nairobi, Paris, Porto and others - and we couldn’t pass up the opportunity to ask him a little about his career so far, as well as his immediate plans in his new role in Veriff.
+Indrek, you’ve had a fascinating career, having worked in different industries and across continents. Let’s start with McKinsey where you worked for six years and ended up as an associate principal and led their client work in different African countries. How did you end up being McKinsey's expert in African markets?
+
+It’s an interesting story that leads me to Edinburgh, Scotland. I had been in McKinsey for a few years by then and just received a promotion to management level, when I was pulled into a very large transformation programme that they were doing for a banking client who was headquartered in Edinburgh. It was late November 2008, the subprime crisis had just hit and the banking industry was not at its best. Until then I had been dreaming of a corporate career in the UK, but it was then that I realized that working in dark, cold, rainy Scotland at winter time, looking how to improve efficiencies (read: to fire people), didn’t really match what I had in mind for a career. I then decided to make one of a few key changes in my life, which was to relocate to Africa, which offered a much nicer working climate. Both literally and figuratively - Nigeria was booming at the time, all businesses were expanding, the environment was extremely positive, and also it was quite a bit more warm than Scotland. I never expected to remain there for the next 8 years, but I guess at times life can surprise you with unexpected twists and turns.
+In 2014, you joined Jumia Group as the Global CEO of their logistics business and helped the group reach unicorn status. What were the main challenges for you during the Jumia period and what did you learn from them?
+I joined Jumia in Summer 2014 when they were about 2 years old as a company and just before
+they closed a €120m funding round at €450m valuation
+. At the time the company was operating well, but many things were still at quite a basic and manual level in terms of how the operations were managed, leading to constant challenges. Knowing that there is a huge growth phase ahead, the key challenge for me was to build operations in a way that would allow it to scale 10x and beyond - this meant investments into product improvements, technology, BI, people development, etc. In 2016 the company became the first African Unicorn, when
+it raised another €300m funding round
+at exactly €1bn valuation.
+I have to say that sadly the company has been having a few ups and downs after 2016, but mainly this has been due to external factors, as the African markets were hit quite hard by the 2016 economic crisis and have never really fully recovered from that until now. I also left the company after the crisis came, but I’m happy that the guys who stayed managed to still see it through to IPO at NYSE, where it reached >€3.5b valuation. (NYSE:JMIA)
+I think the most important learning for me was to witness firsthand the challenges that a company goes through during this growth phase of moving from a startup to a more stable business, and what it means for the organization, people, technology, and all other aspects of the business.
+Your career in e-commerce must have given you a great perspective on identity verification. How do you see the future of the e-commerce industry in relation to identity verification?
+I think there are similar challenges between e-commerce and identify verification. Trust online is a very fundamental problem. The only reason why you can go online and buy from Amazon (or Jumia), is that Amazon (and Jumia), do a lot of work in the background to make sure that the seller who actually provides the goods is real, that the products are real and genuine, that they’ll actually be delivered and if there are any problems, that they’ll be resolved. Similarly, the reason why you can take a taxi with Bolt or make your credit card details available for a food purchase from a restaurant, is because the intermediary company (be it Bolt, Uber, Wolt, or whichever other) gives the feeling of trust. Most commercial transactions on the internet have similar risks - the transacting parties do not know each other, and cannot strictly trust each other, and an intermediary is needed to create trust. Veriff has cracked this problem in its own way, and I think that as our solution takes advantage of the most up-to-date technological capabilities, and therefore is quite useful. More and more business is shifting online, and this shift has further accelerated due to Covid-19, which is why I think Veriff is really in a hot spot right now.
+You are joining Veriff from Luminor where you were a Member of the Management Board. Blackstone’s billion-euro investment in Luminor is the company’s most substantial investment ever in Europe. With Blackstone in, one of your responsibilities was to consolidate the technology of the merging banks and launch the new banking platform. What are the key insights that you are talking to Veriff from that experience?
+Luminor, of course, is a completely different “animal” altogether. Traditional banks all have huge legacy technology stacks, and it was not different in Luminor. When the Baltic assets of DNB and Nordea bank were merged to form what became Luminor, we started with a legacy technology stack of more than 600 applications, running 6 core banking systems, and at the same time having huge gaps in terms of services that were previously provided by the Nordic parent organizations and had to be established now in the Baltics. For example, to make a USD payment from Luminor, there would have been many different ways how it could have been done, depending on whether it was done from ex-Nordea or ex-DNB and which country it would have been made from, and in none of the situations would Luminor have been able to make the payment without it passing through the systems of Nordea or DNB group and using the correspondent banking network of either Nordea or DNB. My job was essentially to cut off all dependencies on the ex-parent banks, so that Luminor could operate as a fully standalone bank, and at the same time to unify the way that systems were used across what previously used to be different banks. To do that, I established the programme office in Luminor, which oversaw 5 technology programmes, consisted of 50+ individual projects, engaging some 500+ engineers and a total of close to 1,000 people from 30+ different technology companies.
+This scale of technological changes is quite different from what Veriff is about, and I think many of the learnings from there are not directly applicable to Veriff (not yet anyway), as the types of processes and controls that are needed would be too much of an overhead for a startup. But of course, there are some general learnings in terms of team and organizational dynamics, things to do and to avoid, that are generally applicable.
+You know the banking industry inside out. How do you see the future of the banking industry in terms of fraud management and KYC? What are the main challenges?
+I believe that unfortunately it is the nature of human societies that there are always people who are up to no good. As long as this is the case, there will always be a “dark economy” existing somewhere. And as long as this exists, there will be a need to differentiate between the good guys and the bad guys. Technology is evolving, and everyone is taking advantage of that - both the good and bad people. This means that drug financing, corrupt money laundering, terrorist financing, and all other such activities become more and more sophisticated. Also, the shift to digital services is still very much ongoing, and will continue to do so for the foreseeable future. For example, the opportunity to open bank accounts fully in digital channels is something that only became possible in many countries a few years ago, and the majority of traditional banks don’t even offer these services yet. But they will. This will also mean that someone, who is into money laundering, can try, with help of technology, to open thousands or even millions of fake bank accounts in a day with little effort. And one can fight technology with technology only. Very soon, we can expect the arrival of really good quality deep fakes, and I’m sure that with technological advancement the battle will continue in more and more advanced ways.
+Even though verification technology has developed rapidly in past years, there are lots of banks in the world still not providing remote verification options for its customers. What are their main barriers?
+To be honest, I don’t think there are any fundamental barriers. Simply, the pace of change is different and banking is an industry that is more traditional and more slow-moving. Certainly, what is holding banks back is their legacy and this is where fintechs have been able to move much faster, as they do not carry this legacy. But banks will catch up over time, and I think that all traditional banks will offer these services in 5 or 10 years time.
+Now coming more specifically to Veriff. What are your intermediate plans and tasks going to be as the COO of Veriff?
+
+I think that the current management team of Veriff is doing a really stellar job at driving the company. So my focus is not so much about fixing anything in the immediate future, but rather to ensure that the company continues its growth path also in 12-24 months from now and beyond, and that all departments have plans in place to do what it takes to see the company through the next growth phase. This is the strategic part of my role. But, as I come in with a strong operational background as well, we’ll also play around the internal split of responsibility in the leadership team in a way to take best advantage of everyone’s individual strengths. Janer, who is the co-founder and has been acting as COO until now, will put his focus more into product development, which is his strength and the company can gain more when he spends more time in product. As a result, I will take up parts of his more operational responsibilities in other areas.
+Patrick Johnson
+Copywriter
+Patrick takes care of the voice of Veriff - coordinating the copy throughout our brand and product and making sure we're constantly delivering engaging and excellent content.
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to News
+News
+Veriff5 - An interview with Kaarel and Janer about 5 years in Veriff
+It's Veriff's Birthday week! So we spoke to our CEO and COO about how they met, their first five years in Veriff, and what they see in their future.
+News
+Veriff welcomes Piret Saag as our new Head of People Operations
+Piret brings a wealth of experience in the start-up field, and a passion for company culture and values, so she’s excited to help Veriff keep building on strong foundations.
+News
+Kaarel Kotkas: My Teammates Would Describe Me as a Visionary
+On an October morning, Veriff founder Kaarel Kotkas was speaking with Veiko Valkiainen about leadership. What does it take to be a great leader and a successful entrepreneur? How do you reach your goals? Tune in to hear Kaarel's thoughts on leadership.
+Back to News
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://www.veriff.com/news/veriff-welcomes-piret-saag-as-our-new-head-of-people-operations
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Blog
+News
+Product updates
+Resources
+Case studies
+Reports
+All resources
+Enter search query
+News
+Product updates
+Case studies
+Reports
+All resources
+News
+Veriff welcomes Piret Saag as our new Head of People Operations
+Piret brings a wealth of experience in the start-up field, and a passion for company culture and values, so she’s excited to help Veriff keep building on strong foundations.
+Patrick Johnson
+,
+
+September 9th, 2020
+Share
+Share
+Love this blog? Why not share it with the world?
+I had the exciting opportunity to interview Veriff’s brand new Head of People Operations, Piret Saag, about her life before joining Veriff, how she learned about us, what attracted her to join, and what are the immediate challenges in her new role.
+So, Piret, tell us about your history before Veriff - where you’ve been on your journey to arrive here now?
+Where do I start?
+So, back in the day, it always seemed I was destined to go towards education. I had roles as a teacher and a lecturer, but at some point I felt it wasn’t quite right for me. I felt an itch. I understood that I wanted to do something else, and I was lucky to have an entrepreneurial group of friends around me to give me a push to do something on my own.
+I founded a language training and translation business, and I found I loved the process of building something up, and embraced the people side of this, talking to people and figuring out how they learn best. I did this for a number of years, and despite really enjoying it, I again started to feel the itch, as the business wasn’t totally my cup of tea as much as my partner’s. This is when my path crossed with Fortumo, and I joined their team.
+Initially, this was to help with key accounts and assist a little with a few HR matters, but within a couple of  months I was full-time HR, helping to build systems as the business started to scale. It was a great experience of learning how we wanted to do things - everything from hiring to building the culture. This is when things really clicked and I learned that helping people within scaling technology companies really is something I loved doing.
+As had become clear though, I like to challenge myself after a while, and after over 5 years with Fortumo I felt it was time for something new. I then saw a potential challenge in helping early phase start-ups who need assistance with a variety of topics but don’t necessarily want to hire someone full-time. So I moved into helping multiple CEOs and teams at the same time, which I ended up doing for 2 and a half years, and saw as a brilliant learning experience.
+The itch I mentioned before, I think it shows me that I’m always looking to stretch myself. When you’ve previously only worked in one company, to then work with many and jump between them on a daily basis taught me a lot. And it showed me the big difference in cultures and approaches, and the way teams work together. People assume that start-ups all seem to have a similar vibe, but I learned first-hand that it wasn’t the case, and it’s helped to stop me making assumptions when I join a new company. I don’t think it’s helpful to a team that someone new joins and tries to force ideas or values that worked in a previous company expecting it will work perfectly. You need to understand the new waters you’re in before you can help the team.
+Having been on an interesting journey so far, and knowing your own mind well when you want a new challenge - how did you discover Veriff, and what attracted you to the role?
+I had kept an eye on Veriff for years, and during the spring my itch returned, wanting to again challenge myself and do something new. And I think it’s only yourself who can ultimately stand up for your needs, so I created a master spreadsheet and listed everything I wanted from my new potential challenge. What conditions should be met so I feel this is the right challenge for me?
+As an example, I wanted the company to be bigger than places I had previously worked - if it were the same size (around 100 people) it wouldn’t challenge me enough. Also an international environment, and a product that I understand and believe in.
+Being able to translate the business needs into something tangible for the people. If you don’t get excited about the product, the mission, and the long-term vision, then it’s very difficult to make other people excited.
+Share
+
+Or you’re doing it artificially, which I wouldn’t want to do.
+When I’d finished my list - I thought, nope, this isn’t going to happen. I’m based in Tartu, which is the second biggest city in Estonia, but the likelihood of meeting my checklist while living here seemed very unlikely. During lockdown though, it became clear that companies were able to be more flexible than was previously imagined, and things don’t entirely fall apart when we’re not all in the same building, so opportunities were closer than expected.
+I mentioned my potential interest in a new challenge to a few people, and was suddenly in a lot of discussions! And it was a pleasure to be a candidate again, to sit on the other side of the table and analyse how other companies do recruitment, as I wasn’t sure when I’d be in that situation again. I was able to talk to different companies and different teams within them, and they were all very insightful conversations.
+I eventually went back to my master sheet with all of this information and recognised that everything matched well with Veriff, and here I am.
+Was there any particular ‘Wow’ moment during the recruitment process for you, or did it come down to the overall match with what you needed?
+Actually, funnily enough, I spoke with a friend after one of the discussions with Veriff and I couldn’t quite put my feelings into words. But what I realised, and the way I worded it was that these were ‘my people’.
+I appreciate now that I was one of the first external visitors allowed into the office after the lockdown period, and the way I was greeted and treated by my potential future colleagues just made me feel I was in the right place. All of the little things, the stuff that came up in interviews, just made me feel that there was something intangible - it even annoyed me that I couldn’t sum it up in a single word.
+Added to this, the connection with my potential future manager, who I hadn’t actually met previously (which is rare for Estonia given we’re in the same field!), and how we view life both personally and professionally really clicked well. After the first interview it felt like I’d known her for years.
+Obviously you haven’t been here long, but what do you see on the horizon for you within Veriff, what will be the immediate challenges?
+I’m piecing this puzzle together right now - Veriff has already been through a lot in it’s short existence, and gone through different phases, including some more challenging ones. This definitely helps direct my own attention, and I’m trying to learn in initial conversations what brought Veriff to where it is today, and what informed certain choices and decisions.
+This will help define my team’s future steps, where we want to change certain things or keep what’s already working really well.
+And as we’re back as a remote team now, for at least a month, do you see any innate challenge in maintaining the bond of a large team while we’re all in our own homes?
+It is definitely a challenge - I think it would be easier to either run a company which is 100% remote, or one which is physically together 100% of the time, but I think the healthy option is to have the combination and the balance. We’re not all the same. I enjoy the flexibility, but I’ve learned now that I’m not the 100% remote type of person, I need to see people and have those spontaneous moments and conversations which awesome things can grow out of.
+We now have to find the way of working which caters to both needs. For the people who’d prefer to work alone, this can depend on your role, but often it can help you to focus, find your flow and do deep work. At the same time, when you consider team cohesion, and finding those spontaneous moments - I really do hope the pandemic will come to an end sooner rather than later so we can start to plan, and map our future way of working as a team. Until then, we’ll find ways to make it happen virtually, in the best way we can.
+Veriff’s values also become really important at a time like this, and if there is a problem, then it’s great that everyone is encouraged to consider what the solution could be and give their input. It’s not only management who should dictate things - it would be boring, and honestly, very annoying to work somewhere with a top-down approach!
+Everyone in Veriff has a voice, and that’s vital. Impactful work, and a say in decisions, are major factors in job satisfaction, no matter what role you’re in. And I think this brings me back to why I enjoy working in agile, fast-moving companies - you’re expected to take a wider view, and when you’re a cultural match you’ll feel totally at home.
+Patrick Johnson
+Copywriter
+Patrick takes care of the voice of Veriff - coordinating the copy throughout our brand and product and making sure we're constantly delivering engaging and excellent content.
+Would you like to follow in Piret's footsteps and find your people?
+Become the next great Veriffian!
+Veriff is on the lookout for new people to join the growing global tech company building a visionary AI-driven verification platform. Feel you'd be a great fit with our culture and values? Get in touch.
+See open roles
+Stay up to date on Veriff news, product updates, and more
+Enter search query
+Subscribe
+Veriff will only use the information you provide to share blog updates. You can unsubscribe any time. For more details, check out our
+
+privacy policy
+.
+Related articles
+Back to News
+News
+I actually wouldn’t recommend this for any sane person
+Joonatan Samuel is without doubt one of Veriff's brightest and most exciting young minds. We talk to him about his time in the company so far, the experiences he's gained during his career, and his love of running (even in winter!).
+News
+Kaarel Kotkas talks to SafetyDetectives
+Our CEO, Kaarel Kotkas, was interviewed by SafetyDetectives.com, so we took the opportunity to share his interview right here. Enjoy!
+News
+Indrek Heinloo joins Veriff as our new Chief Operations Officer
+Veriff is excited to announce the arrival of Indrek Heinloo as our new COO. We caught up with him about his career so far, and his immediate plans in Veriff.
+Back to News
+
+Making it easy to connect with honest people.
+English
+Select your preferred language
+English
+Eesti
+Company and team
+Our story
+News and Blog
+Press
+Careers
+Discover
+Identity Verification Platform
+Assisted Image Capture
+Pricing
+Service status
+Support
+Developers
+Case studies
+info@veriff.com
+Follow us
+Facebook
+Instagram
+Twitter
+Linkedin
+Github
+©
+2020
+Veriff. All rights reserved.
+Privacy policy
+Cookie policy
+Recruitment privacy policy
+Responsible disclosure
+©
+2020
+Veriff. All rights reserved.
