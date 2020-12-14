@@ -22,6 +22,6 @@ _MAC_
 ```
 
 # RUN
-``` python
+``` 
     py main.py <WEBSITE_URL>
 ```
