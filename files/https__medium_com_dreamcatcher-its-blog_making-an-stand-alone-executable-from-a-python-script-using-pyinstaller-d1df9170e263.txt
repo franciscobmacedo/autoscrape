@@ -1,0 +1,907 @@
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/better-programming/go-automate-your-github-profile-readme-d0ce2252f8aa?source=post_internal_links---------3----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/dreamcatcher-its-blog?source=post_page-----d1df9170e263--------------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/dreamcatcher-its-blog?source=post_sidebar--------------------------post_sidebar-----------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/@wasi0013?source=post_page-----d1df9170e263--------------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/swlh/why-all-of-you-need-to-know-about-the-webp-image-format-d1b4c55b5342?source=post_internal_links---------5----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/swlh?source=post_internal_links---------7----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/dreamcatcher-its-blog?source=follow_footer-------------------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/?source=post_page-----d1df9170e263--------------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Sign in
+Making a Stand Alone Executable from a Python Script using PyInstaller
+Making a Stand Alone Executable from a Python Script using PyInstaller
+ওয়াসী (Wasi)
+Follow
+Oct 5, 2017
+
+·
+
+4
+min read
+This article is also available in English. Please,
+click here
+
+to read the English version.
+পাইথন
+স্ক্রিপ্টকে
+এক্সিকিউটেবলে
+রূপান্তর করার অনেক গুলো উপায় রয়েছে। উদাহরণ স্বরূপ নিচের মডিউলগুলো চেক করুন:
+PyInstaller
+py2exe
+পাইথন ২ স্ক্রিপ্ট এর জন্যে আমি py2exe ব্যবহার করতাম। ছোটখাটো স্ক্রিপ্টকে খুব সহজেই এক্সিকিউটেবল এ কনভার্ট করার জন্যে খুবই কার্যকরী একটি টুল এটা। কিন্তু একটাই সমস্যা, এটা শুধু পাইথন ২ সাপোর্ট করতো! তাই, আমি পাইইন্সটলার এ সুইচ করি। যদিও, py2exe এখন পাইথন ৩ সাপোর্ট করা শুরু করেছে, py2exe নিয়ে আরেকটি আর্টিকেল লেখার ইচ্ছে আছে তবে সেটি আরেকদিন।
+এই আর্টিকেলটি পাইন্সটলারের জন্যেই নিবেদিত। অসাধারণ এটুলটি স্পেশালি উইন্ডোজ ইউজারদের জন্যে খুবই কাজের, কারণ একটি কমান্ড ব্যবহার করে খুব সহজেই স্ক্রিপ্টকে exe তে রূপান্তর করা যায়! যদিও আমি লিনাক্স ব্যবহার করতে পছন্দ করি, আমাকে প্রায়শঃই উইন্ডোজ ইউজার এর জন্যে exe ফাইল তৈরী করতে হয়েছে বিভিন্ন উইন্ডোজ ভার্সন এর জন্যে(ক্লায়েন্ট রিকোয়ারমেন্ট)
+চলুন তবে, আর দেরী না করে স্ক্রিপ্টকে এক্সিকিউটেবল বানানোর প্রসেসটা জেনে নিই।
+ইন্সটলেশন:
+পাইথন
+আর পিপ ইন্সটল করা থাকলে শুধু নিচের কমান্ড দিলেই হবে!
+pip install pyinstaller
+নোটঃ
+
+আপনি উইন্ডোজ ব্যবহারকারী হলে আপনাকে হয়তো
+PyWin32
+ও ইন্সটল করতে হবে! এখানে ক্লিক করে ডাউনলোড করে নিতে পারেন:
+https://sourceforge.net/projects/pywin32/files/
+এছাড়াও, অন্য কোন সাহায্য লাগলে অবশ্যই পাইন্সটলারের ডকুমেন্টেশন দেখতে পারেন:
+https://pyinstaller.readthedocs.io/en/stable/installation.html
+যদি পিপ ছাড়া অন্য কোন প্যাকেজ ম্যানেজার ব্যবহার করেন যেমন ধরেন কোন্ডা
+
+(
+Anaconda
+এর জন্যে) tতাহলে আপনাকে নিচের কমান্ডগুলো ব্যবহার করতে হবেঃ
+conda install -c conda-forge pyinstaller
+conda install -c anaconda pywin32
+বিস্তারিত জানতে আপনার প্যাকেজ ম্যানেজার এর ডকুমেন্টেশান দেখুন।
+এক্সিকিউটেবল বানানো:
+ইন্সটলেশন তো হলো, এবার আপনি যে স্ক্রিপ্টকে এক্সিকিউটেবল বানাতে চাচ্ছেন সেটাকে খুঁজে বের করুন। শুধু যে ফোল্ডারে স্ক্রিপ্টটা আছে সে ফোল্ডারে গিয়ে কমান্ড প্রম্পট বা টার্মিনাল ওপেন করলেই হবে। পাইথন স্ক্রিপ্ট ঠিকভাবে কাজ করে কি না সেটা একবার চেক করে দেখুন।
+python your_script.py
+আপনার স্ক্রিপ্ট সঠিকভাবে কাজ করে কি না তা আগে নিশ্চিত হোন। এরপরে, নিচের কমান্ডটি ব্যবহার করুন। আমি এই কমান্ড সাধারণত বেশী ব্যবহার করিঃ
+pyinstaller --onefile <your_script_name>.py
+কমান্ড রান হওয়া শেষ হলে dist ফোল্ডার চেক করুন। চিন্তার কোন কারণ নেই, এই ফোল্ডারটি আপনাকে তৈরী করে দিতে হবে না, নিজে থেকেই তৈরী হয়ে যাবে উপরের কমান্ড রান করলেই!
+লক্ষ্য করুন, আমরা একটি আর্গুমেন্ট পাস্ করেছি “— onefile”. এই আর্গুমেন্ট এর জন্যেই পাইন্সটলার সরাসরি একটি ফাইল তৈরী করেছে। এই কমান্ড পাস্ না করলে, আপনার স্ক্রিপ্ট যে লাইব্রেরি গুলো ব্যবহার করে, পাইন্সটলার সেগুলোর জন্যে আলাদা ফোল্ডার তৈরী করবে।
+দ্রষ্টব্যঃ
+এক্সিকিউটেবলের ফরম্যাট/ এক্সটেনশন আপনি কোন প্ল্যাটফর্মে কমান্ড রান করেছে সেটার উপর নির্ভর করে। অর্থাৎ, আপনি যদি উইন্ডোজে এই কমান্ড রান করেন, তাহলে পাবেন .exe লিনাক্স এ রান করলে ফাইল এক্সটেনশন ডিস্ট্রো এর উপর নির্ভর করে পরিবর্তিত হয়ে যাবে।
+আপনি শুধুমাত্র যে অপারেটিং সিস্টেম এ কমান্ড রান করবেন সেটার এক্সিকিউটেবল পাবেন। অর্থাৎ উইন্ডোজ করলে উইন্ডোজের বা, লিনাক্স এ করলে শুধুই লিনাক্সের!
+উদাহরণ দিয়ে বলতে গেলে, লিনাক্স এ পাইন্সটলার কমান্ড সরাসরি ব্যবহার করে উইন্ডোজ এক্সিকিউটেবল (exe) পাওয়া সম্ভব না। অথবা, উল্টোভাবে বলা হলে, উইন্ডোজ ব্যবহার করে লিনাক্স এর জন্যে এক্সিকিউটেবল বানাতে পারবেন না।(যদি কোন উপায় জানা থাকে তবে নিচে কমেন্ট করুন)
+এসব ক্ষেত্রে যেটা করতে পারেন তা হলো Virtualbox অথবা ওইধরনের কিছু সফটওয়ার ব্যবহার করে ভার্চুয়ালি অপারেটিং সিস্টেম রান করে ঐ ভার্চুয়াল অপারেটিং সিস্টেমে এক্সিকিউটেবল বানিয়ে তা পরবর্তীতে এক্সপোর্ট করে নিতে পারেন। লিনাক্সে ওয়াইনও ব্যবহার করা যেতে পারে (যদিও আমি কখনো এটা ব্যবহার করি নি)
+আপনার পাইথন স্ক্রিপ্ট যদি এক্সট্রা কোন এক্সিকিউটেবল বা, ফাইলের উপর ডিপেন্ড করে, যেমনঃ ফ্যান্টম জেএস অথবা, ক্রোমড্রাইভার সে ক্ষেত্রে ঐ ফাইলগুলোকেও পাইন্সটলারের তৈরি করা এক্সিকিউটেবলের সাথে একই ফোল্ডারে রাখতে হবে।
+এধরণের ডিপেন্ডেন্সী গুলোর জন্যে উইন্ডোজ প্ল্যাটফর্মের ক্ষেত্রে আমি
+NSIS
+দিয়ে সব প্রয়োজনীয় ফাইলগুলোকে একসাথে প্যাকেজ করে দিতে পছন্দ করি। কিভাবে প্যাকেজ করতে হবে, এর ধাপগুলো নিচে দেয়া হলো (ধরে নিচ্ছি NSIS ইন্সটল করা আছে):
+এক্সিকিউটেবল, ডিপেন্ডেন্সি, রিড মি ইত্যাদি যাবতীয় ফাইলগুলো নিয়ে একটি জিপ ফাইল তৈরী করুন
+এবার NSIS রান করুন
+‘make installer from zip archive’ এ ক্লিক করুন
+জিপ ফাইলটি সিলেক্ট করুন
+একটি নাম লিখে এক্সিকিউটেবল(Installer.exe/Setup.exe) বানিয়ে নিন
+যে এক্সিকিউটেবলটি পাবেন সেটা একটা এক্সট্রাক্টর, যেটা দরকারী সব ফাইলগুলোকে একটি ফোল্ডার এ এক্সট্র্যাক্ট করবে। অসাধারণ!
+মূল্যবান লিংকসমূহ:
+স্ট্যাক ওভারফ্লো এর উত্তর
+সোর্স কোড
+PyInstaller যে প্যাকেজ গুলো সাপোর্ট করে
+py2exe অফিশিয়াল টিউটোরিয়াল
+এই আর্টিকেল সম্পর্কিত reddit এ আলোচনা
+Author:
+Wasi Mohammed Abdullah
+Thinker, Day Dreamer, Python Enthusiast, Javascript Admirer An Introvert with Exception!
+CEO, Founder
+Dreamcatcher IT
+
+twitter:
+twitter.com/wasi0013
+github:
+github.com/wasi0013
+facebook:
+fb.me/wasi0013
+Please, feel free to
+contact
+me if you need any help.
+Dreamcatcher IT’s Blog
+Dreamcatcher IT is a hub of eerie minds keen for desired…
+Follow
+2.4K
+
+25
+
+Python
+Executable
+Pyinstaller
+Make Exe
+Py2exe
+2.4K
+
+claps
+2.4K
+
+claps
+25
+
+response
+s
+Written by
+ওয়াসী (Wasi)
+Follow
+CEO Founder, Dreamcatcher IT
+Follow
+Dreamcatcher IT’s Blog
+Follow
+Dreamcatcher IT is a hub of eerie minds keen for desired accomplishment; stirred by technology to reinvent possibilities.
+Follow
+Written by
+ওয়াসী (Wasi)
+Follow
+CEO Founder, Dreamcatcher IT
+Dreamcatcher IT’s Blog
+Follow
+Dreamcatcher IT is a hub of eerie minds keen for desired accomplishment; stirred by technology to reinvent possibilities.
+More From Medium
+Dependency Injection in TypeScript from scratch
+SentinelOne Tech
+HTML Tables: All there is to know about them
+Alexander Gilmanov
+
+in
+
+freeCodeCamp.org
+Things to Do Before Your Next Technical Interview
+Thomas Guibert
+
+in
+
+Better Programming
+Go Automate Your GitHub Profile README
+Victoria Drake
+
+in
+
+Better Programming
+How C# 8 Helps Software Quality
+Matt Eland
+
+in
+
+The Startup
+Why All of You Need to Know About the WEBP Image Format?
+Md Shahab Uddin
+
+in
+
+The Startup
+Creating a Stimulus generator for Ruby on Rails
+David Colby
+Equality of Actors in Enterprise Architecture
+Hans Bosma
+
+in
+
+The Startup
+Learn more.
+Medium is an open platform where 170 million readers come to find insightful and dynamic thinking.
+                        Here, expert and undiscovered voices alike dive into the heart of any topic and bring new ideas to the surface.
+Learn more
+Make
+Medium
+yours
+.
+Follow the writers, publications, and topics that matter to you, and you’ll see them on your homepage and in your inbox.
+Explore
+Share your thinking.
+If you have a story to tell, knowledge to share, or a perspective to offer — welcome home.
+        It’s easy and free to post your thinking on any topic.
+Write on Medium
+About
+Help
+Legal
+Get the Medium app
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/better-programming/things-to-do-before-your-next-technical-interview-d107a349204d?source=post_internal_links---------2----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/@alexandergilmanov?source=post_internal_links---------1----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/@wasi0013?source=follow_footer-------------------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/@th.guibert?source=post_internal_links---------2----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/swlh?source=post_internal_links---------4----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/@victoriadotdev?source=post_internal_links---------3----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263?source=post_page-----d1df9170e263--------------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/better-programming?source=post_internal_links---------3----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/swlh?source=post_internal_links---------5----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/better-programming?source=post_internal_links---------2----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/free-code-camp/html-tables-all-there-is-to-know-about-them-d1245980ef96?source=post_internal_links---------1----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/swlh/how-c-8-helps-software-quality-cfa81a18907f?source=post_internal_links---------4----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/free-code-camp?source=post_internal_links---------1----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/@hans.bosma3?source=post_internal_links---------7----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263/swlh/equality-of-actors-in-enterprise-architecture-d16f8ace273e?source=post_internal_links---------7----------------------------
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Homepage
+Homepage
+Page Not Found
+404
+Out of nothing, something.
+You can find (just about) anything on Medium — apparently even a page that doesn’t exist. Maybe these stories about finding what you didn’t know you were looking for will take you somewhere new?
+Home
+Applause from Medium Staff
+Getting Lost in Canada
+John Francis Peters
+Aug 9, 2018
+Applause from Medium Staff
+To Anyone Who Has Lost Themselves
+Jamie Varon
+Jan 4, 2016
+Applause from Medium Staff
+Three Things I Lost
+Priya
+Apr 27, 2017
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Sign in
+Making a Stand Alone Executable from a Python Script using PyInstaller
+Making a Stand Alone Executable from a Python Script using PyInstaller
+ওয়াসী (Wasi)
+Follow
+Oct 5, 2017
+
+·
+
+4
+min read
+This article is also available in English. Please,
+click here
+
+to read the English version.
+পাইথন
+স্ক্রিপ্টকে
+এক্সিকিউটেবলে
+রূপান্তর করার অনেক গুলো উপায় রয়েছে। উদাহরণ স্বরূপ নিচের মডিউলগুলো চেক করুন:
+PyInstaller
+py2exe
+পাইথন ২ স্ক্রিপ্ট এর জন্যে আমি py2exe ব্যবহার করতাম। ছোটখাটো স্ক্রিপ্টকে খুব সহজেই এক্সিকিউটেবল এ কনভার্ট করার জন্যে খুবই কার্যকরী একটি টুল এটা। কিন্তু একটাই সমস্যা, এটা শুধু পাইথন ২ সাপোর্ট করতো! তাই, আমি পাইইন্সটলার এ সুইচ করি। যদিও, py2exe এখন পাইথন ৩ সাপোর্ট করা শুরু করেছে, py2exe নিয়ে আরেকটি আর্টিকেল লেখার ইচ্ছে আছে তবে সেটি আরেকদিন।
+এই আর্টিকেলটি পাইন্সটলারের জন্যেই নিবেদিত। অসাধারণ এটুলটি স্পেশালি উইন্ডোজ ইউজারদের জন্যে খুবই কাজের, কারণ একটি কমান্ড ব্যবহার করে খুব সহজেই স্ক্রিপ্টকে exe তে রূপান্তর করা যায়! যদিও আমি লিনাক্স ব্যবহার করতে পছন্দ করি, আমাকে প্রায়শঃই উইন্ডোজ ইউজার এর জন্যে exe ফাইল তৈরী করতে হয়েছে বিভিন্ন উইন্ডোজ ভার্সন এর জন্যে(ক্লায়েন্ট রিকোয়ারমেন্ট)
+চলুন তবে, আর দেরী না করে স্ক্রিপ্টকে এক্সিকিউটেবল বানানোর প্রসেসটা জেনে নিই।
+ইন্সটলেশন:
+পাইথন
+আর পিপ ইন্সটল করা থাকলে শুধু নিচের কমান্ড দিলেই হবে!
+pip install pyinstaller
+নোটঃ
+
+আপনি উইন্ডোজ ব্যবহারকারী হলে আপনাকে হয়তো
+PyWin32
+ও ইন্সটল করতে হবে! এখানে ক্লিক করে ডাউনলোড করে নিতে পারেন:
+https://sourceforge.net/projects/pywin32/files/
+এছাড়াও, অন্য কোন সাহায্য লাগলে অবশ্যই পাইন্সটলারের ডকুমেন্টেশন দেখতে পারেন:
+https://pyinstaller.readthedocs.io/en/stable/installation.html
+যদি পিপ ছাড়া অন্য কোন প্যাকেজ ম্যানেজার ব্যবহার করেন যেমন ধরেন কোন্ডা
+
+(
+Anaconda
+এর জন্যে) tতাহলে আপনাকে নিচের কমান্ডগুলো ব্যবহার করতে হবেঃ
+conda install -c conda-forge pyinstaller
+conda install -c anaconda pywin32
+বিস্তারিত জানতে আপনার প্যাকেজ ম্যানেজার এর ডকুমেন্টেশান দেখুন।
+এক্সিকিউটেবল বানানো:
+ইন্সটলেশন তো হলো, এবার আপনি যে স্ক্রিপ্টকে এক্সিকিউটেবল বানাতে চাচ্ছেন সেটাকে খুঁজে বের করুন। শুধু যে ফোল্ডারে স্ক্রিপ্টটা আছে সে ফোল্ডারে গিয়ে কমান্ড প্রম্পট বা টার্মিনাল ওপেন করলেই হবে। পাইথন স্ক্রিপ্ট ঠিকভাবে কাজ করে কি না সেটা একবার চেক করে দেখুন।
+python your_script.py
+আপনার স্ক্রিপ্ট সঠিকভাবে কাজ করে কি না তা আগে নিশ্চিত হোন। এরপরে, নিচের কমান্ডটি ব্যবহার করুন। আমি এই কমান্ড সাধারণত বেশী ব্যবহার করিঃ
+pyinstaller --onefile <your_script_name>.py
+কমান্ড রান হওয়া শেষ হলে dist ফোল্ডার চেক করুন। চিন্তার কোন কারণ নেই, এই ফোল্ডারটি আপনাকে তৈরী করে দিতে হবে না, নিজে থেকেই তৈরী হয়ে যাবে উপরের কমান্ড রান করলেই!
+লক্ষ্য করুন, আমরা একটি আর্গুমেন্ট পাস্ করেছি “— onefile”. এই আর্গুমেন্ট এর জন্যেই পাইন্সটলার সরাসরি একটি ফাইল তৈরী করেছে। এই কমান্ড পাস্ না করলে, আপনার স্ক্রিপ্ট যে লাইব্রেরি গুলো ব্যবহার করে, পাইন্সটলার সেগুলোর জন্যে আলাদা ফোল্ডার তৈরী করবে।
+দ্রষ্টব্যঃ
+এক্সিকিউটেবলের ফরম্যাট/ এক্সটেনশন আপনি কোন প্ল্যাটফর্মে কমান্ড রান করেছে সেটার উপর নির্ভর করে। অর্থাৎ, আপনি যদি উইন্ডোজে এই কমান্ড রান করেন, তাহলে পাবেন .exe লিনাক্স এ রান করলে ফাইল এক্সটেনশন ডিস্ট্রো এর উপর নির্ভর করে পরিবর্তিত হয়ে যাবে।
+আপনি শুধুমাত্র যে অপারেটিং সিস্টেম এ কমান্ড রান করবেন সেটার এক্সিকিউটেবল পাবেন। অর্থাৎ উইন্ডোজ করলে উইন্ডোজের বা, লিনাক্স এ করলে শুধুই লিনাক্সের!
+উদাহরণ দিয়ে বলতে গেলে, লিনাক্স এ পাইন্সটলার কমান্ড সরাসরি ব্যবহার করে উইন্ডোজ এক্সিকিউটেবল (exe) পাওয়া সম্ভব না। অথবা, উল্টোভাবে বলা হলে, উইন্ডোজ ব্যবহার করে লিনাক্স এর জন্যে এক্সিকিউটেবল বানাতে পারবেন না।(যদি কোন উপায় জানা থাকে তবে নিচে কমেন্ট করুন)
+এসব ক্ষেত্রে যেটা করতে পারেন তা হলো Virtualbox অথবা ওইধরনের কিছু সফটওয়ার ব্যবহার করে ভার্চুয়ালি অপারেটিং সিস্টেম রান করে ঐ ভার্চুয়াল অপারেটিং সিস্টেমে এক্সিকিউটেবল বানিয়ে তা পরবর্তীতে এক্সপোর্ট করে নিতে পারেন। লিনাক্সে ওয়াইনও ব্যবহার করা যেতে পারে (যদিও আমি কখনো এটা ব্যবহার করি নি)
+আপনার পাইথন স্ক্রিপ্ট যদি এক্সট্রা কোন এক্সিকিউটেবল বা, ফাইলের উপর ডিপেন্ড করে, যেমনঃ ফ্যান্টম জেএস অথবা, ক্রোমড্রাইভার সে ক্ষেত্রে ঐ ফাইলগুলোকেও পাইন্সটলারের তৈরি করা এক্সিকিউটেবলের সাথে একই ফোল্ডারে রাখতে হবে।
+এধরণের ডিপেন্ডেন্সী গুলোর জন্যে উইন্ডোজ প্ল্যাটফর্মের ক্ষেত্রে আমি
+NSIS
+দিয়ে সব প্রয়োজনীয় ফাইলগুলোকে একসাথে প্যাকেজ করে দিতে পছন্দ করি। কিভাবে প্যাকেজ করতে হবে, এর ধাপগুলো নিচে দেয়া হলো (ধরে নিচ্ছি NSIS ইন্সটল করা আছে):
+এক্সিকিউটেবল, ডিপেন্ডেন্সি, রিড মি ইত্যাদি যাবতীয় ফাইলগুলো নিয়ে একটি জিপ ফাইল তৈরী করুন
+এবার NSIS রান করুন
+‘make installer from zip archive’ এ ক্লিক করুন
+জিপ ফাইলটি সিলেক্ট করুন
+একটি নাম লিখে এক্সিকিউটেবল(Installer.exe/Setup.exe) বানিয়ে নিন
+যে এক্সিকিউটেবলটি পাবেন সেটা একটা এক্সট্রাক্টর, যেটা দরকারী সব ফাইলগুলোকে একটি ফোল্ডার এ এক্সট্র্যাক্ট করবে। অসাধারণ!
+মূল্যবান লিংকসমূহ:
+স্ট্যাক ওভারফ্লো এর উত্তর
+সোর্স কোড
+PyInstaller যে প্যাকেজ গুলো সাপোর্ট করে
+py2exe অফিশিয়াল টিউটোরিয়াল
+এই আর্টিকেল সম্পর্কিত reddit এ আলোচনা
+Author:
+Wasi Mohammed Abdullah
+Thinker, Day Dreamer, Python Enthusiast, Javascript Admirer An Introvert with Exception!
+CEO, Founder
+Dreamcatcher IT
+
+twitter:
+twitter.com/wasi0013
+github:
+github.com/wasi0013
+facebook:
+fb.me/wasi0013
+Please, feel free to
+contact
+me if you need any help.
+Dreamcatcher IT’s Blog
+Dreamcatcher IT is a hub of eerie minds keen for desired…
+Follow
+2.4K
+
+25
+
+Python
+Executable
+Pyinstaller
+Make Exe
+Py2exe
+2.4K
+
+claps
+2.4K
+
+claps
+25
+
+response
+s
+Written by
+ওয়াসী (Wasi)
+Follow
+CEO Founder, Dreamcatcher IT
+Follow
+Dreamcatcher IT’s Blog
+Follow
+Dreamcatcher IT is a hub of eerie minds keen for desired accomplishment; stirred by technology to reinvent possibilities.
+Follow
+Written by
+ওয়াসী (Wasi)
+Follow
+CEO Founder, Dreamcatcher IT
+Dreamcatcher IT’s Blog
+Follow
+Dreamcatcher IT is a hub of eerie minds keen for desired accomplishment; stirred by technology to reinvent possibilities.
+More From Medium
+Dependency Injection in TypeScript from scratch
+SentinelOne Tech
+HTML Tables: All there is to know about them
+Alexander Gilmanov
+
+in
+
+freeCodeCamp.org
+Things to Do Before Your Next Technical Interview
+Thomas Guibert
+
+in
+
+Better Programming
+Go Automate Your GitHub Profile README
+Victoria Drake
+
+in
+
+Better Programming
+How C# 8 Helps Software Quality
+Matt Eland
+
+in
+
+The Startup
+Why All of You Need to Know About the WEBP Image Format?
+Md Shahab Uddin
+
+in
+
+The Startup
+Creating a Stimulus generator for Ruby on Rails
+David Colby
+Equality of Actors in Enterprise Architecture
+Hans Bosma
+
+in
+
+The Startup
+Learn more.
+Medium is an open platform where 170 million readers come to find insightful and dynamic thinking.
+                        Here, expert and undiscovered voices alike dive into the heart of any topic and bring new ideas to the surface.
+Learn more
+Make
+Medium
+yours
+.
+Follow the writers, publications, and topics that matter to you, and you’ll see them on your homepage and in your inbox.
+Explore
+Share your thinking.
+If you have a story to tell, knowledge to share, or a perspective to offer — welcome home.
+        It’s easy and free to post your thinking on any topic.
+Write on Medium
+About
+Help
+Legal
+Get the Medium app

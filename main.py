@@ -118,7 +118,6 @@ if __name__ == '__main__':
     url = sys.argv[1]
     print(url)
     # url = "https://loqr.io/"
-    # url = "www.nunogsousa.com"
 
     scrape = Scrape(url)
     scrape.main()
