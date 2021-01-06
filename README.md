@@ -2,10 +2,10 @@
 
 Scrapes all website text content and writes it to a file
 
-# SETUP
+## SETUP
 
 _WINDOWS_
-```
+```bash
     git clone https://github.com/FranMacedo/autoscrape
     cd  autoscrape
     .\venv\scripts\activate
@@ -14,14 +14,15 @@ _WINDOWS_
 
 
 _MAC_
-```
+```bash
     git clone https://github.com/FranMacedo/autoscrape
     cd  autoscrape
     source venv/bin/activate
     pip install -r requirements.txt
 ```
 
-# RUN
-``` 
+## RUN
+
+``` bash
     py main.py <WEBSITE_URL>
 ```
