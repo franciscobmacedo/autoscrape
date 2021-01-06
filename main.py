@@ -109,7 +109,6 @@ class Scrape():
             except Exception as e:
                 print(f' cant do it with http: {e}')
 
-        # print('Vou fechar!')
         self.f.close()
         print('Data written in file.')
 
