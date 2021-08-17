@@ -1,6 +1,6 @@
-# AUTO SCRAPER
+# :page_with_curl: AUTO SCRAPER
 
-:page_with_curl: Scrapes all website text content and writes it to a file
+ Scrapes all website text content and writes it to a file
 
 ## SETUP
 
